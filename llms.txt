@@ -1,6 +1,6 @@
 # Gateway Restoration
 
-Gateway Restoration is a water damage restoration company serving Chandler, Arizona and surrounding communities. We provide 24/7 emergency response, water extraction, structural drying, flood cleanup, sewage cleanup, mold remediation, commercial restoration, and insurance claim assistance.
+Gateway Restoration is a water damage restoration company serving Chandler, Arizona and surrounding communities.
 
 ## Company Information
 
@@ -9,28 +9,14 @@ Gateway Restoration is a water damage restoration company serving Chandler, Ariz
 - Address: 17817 S McQueen Rd, Chandler, AZ 85286, USA
 - Website: https://gatewayrestoration.pages.dev
 
-## Primary Service Areas
-
-- Chandler, Arizona
-- Gilbert, Arizona
-- Mesa, Arizona
-- Tempe, Arizona
-- Queen Creek, Arizona
-- Phoenix Metro Area
-
-## Primary Topic
-
-Water Damage Restoration Chandler AZ
-
 ## Core Pages
 
 - [Homepage](https://gatewayrestoration.pages.dev/)
-- [About Us](https://gatewayrestoration.pages.dev/about/)
+- [About](https://gatewayrestoration.pages.dev/about/)
 - [Our Process](https://gatewayrestoration.pages.dev/our-process/)
 - [Reviews](https://gatewayrestoration.pages.dev/reviews/)
 - [FAQ](https://gatewayrestoration.pages.dev/faq/)
 - [Contact](https://gatewayrestoration.pages.dev/contact/)
-
 ## Service Hub
 
 - [Services](https://gatewayrestoration.pages.dev/services/)
