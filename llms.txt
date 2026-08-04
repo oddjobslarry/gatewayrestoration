@@ -1,121 +1,148 @@
 # Gateway Restoration
 
-Gateway Restoration is a water damage restoration company serving Chandler, Arizona and surrounding communities.
+Gateway Restoration provides 24/7 emergency water damage restoration, water extraction, flood cleanup, structural drying, mold remediation, sewage cleanup, and property restoration services throughout Chandler, Arizona and surrounding communities.
 
-## Company Information
+Website:
+https://gatewayrestoration.pages.dev
 
-- Company Name: Gateway Restoration
-- Phone: +1 (480) 591-8997
-- Address: 17817 S McQueen Rd, Chandler, AZ 85286, USA
-- Website: https://gatewayrestoration.pages.dev
+Phone:
++1-480-591-8997
 
-## Core Pages
+Address:
+17817 S McQueen Rd, Chandler, AZ 85286, USA
 
-- [Homepage](https://gatewayrestoration.pages.dev/)
-- [About](https://gatewayrestoration.pages.dev/about/)
-- [Our Process](https://gatewayrestoration.pages.dev/our-process/)
-- [Reviews](https://gatewayrestoration.pages.dev/reviews/)
-- [FAQ](https://gatewayrestoration.pages.dev/faq/)
-- [Contact](https://gatewayrestoration.pages.dev/contact/)
-## Service Hub
+Primary Service Area:
+Chandler, Arizona
 
-- [Services](https://gatewayrestoration.pages.dev/services/)
+## Primary Pages
+
+- Home: https://gatewayrestoration.pages.dev/
+- About Us: https://gatewayrestoration.pages.dev/about/
+- Contact: https://gatewayrestoration.pages.dev/contact/
+- Services Hub: https://gatewayrestoration.pages.dev/services/
+- Coverage Areas: https://gatewayrestoration.pages.dev/coverage-areas/
+- Insurance & Cost Center: https://gatewayrestoration.pages.dev/insurance/
+- Blog: https://gatewayrestoration.pages.dev/blog/
+- FAQ: https://gatewayrestoration.pages.dev/faq/
 
 ## Emergency Water Damage Services
 
-- [Emergency Water Damage Restoration](https://gatewayrestoration.pages.dev/emergency-water-damage-restoration/)
-- [24 Hour Water Damage Restoration](https://gatewayrestoration.pages.dev/24-hour-water-damage-restoration/)
-- [Emergency Flood Cleanup](https://gatewayrestoration.pages.dev/emergency-flood-cleanup/)
+- Emergency Water Damage Restoration: https://gatewayrestoration.pages.dev/emergency-water-damage-restoration/
+- 24 Hour Water Damage Restoration: https://gatewayrestoration.pages.dev/24-hour-water-damage-restoration/
+- Emergency Flood Cleanup: https://gatewayrestoration.pages.dev/emergency-flood-cleanup/
 
-## Water Mitigation & Structural Drying
+## Water Mitigation & Drying
 
-- [Water Extraction](https://gatewayrestoration.pages.dev/water-extraction/)
-- [Structural Drying](https://gatewayrestoration.pages.dev/structural-drying/)
-- [Water Mitigation](https://gatewayrestoration.pages.dev/water-mitigation/)
-- [Dehumidification Services](https://gatewayrestoration.pages.dev/dehumidification-services/)
-- [Moisture Mapping & Thermal Imaging](https://gatewayrestoration.pages.dev/moisture-mapping-thermal-imaging/)
+- Water Extraction: https://gatewayrestoration.pages.dev/water-extraction/
+- Structural Drying: https://gatewayrestoration.pages.dev/structural-drying/
+- Water Mitigation: https://gatewayrestoration.pages.dev/water-mitigation/
+- Dehumidification Services: https://gatewayrestoration.pages.dev/dehumidification-services/
+- Moisture Mapping & Thermal Imaging: https://gatewayrestoration.pages.dev/moisture-mapping-thermal-imaging/
 
-## Mold Remediation
+## Cause-Based Water Damage Services
 
-- [Mold Remediation After Water Damage](https://gatewayrestoration.pages.dev/mold-remediation-after-water-damage/)
-- [Black Mold Removal](https://gatewayrestoration.pages.dev/black-mold-removal/)
-- [Mold Inspection](https://gatewayrestoration.pages.dev/mold-inspection/)
+- Burst Pipe Water Damage: https://gatewayrestoration.pages.dev/burst-pipe-water-damage/
+- Slab Leak Water Damage: https://gatewayrestoration.pages.dev/slab-leak-water-damage/
+- Water Heater Leak Damage: https://gatewayrestoration.pages.dev/water-heater-leak-damage/
+- Roof Leak Water Damage: https://gatewayrestoration.pages.dev/roof-leak-water-damage/
+- Appliance Leak Water Damage: https://gatewayrestoration.pages.dev/appliance-leak-water-damage/
+- AC Leak Water Damage: https://gatewayrestoration.pages.dev/ac-leak-water-damage/
+- Foundation Water Intrusion: https://gatewayrestoration.pages.dev/foundation-water-intrusion/
+- Irrigation System Leak Damage: https://gatewayrestoration.pages.dev/irrigation-system-leak-damage/
 
-## Commercial Services
+## Flood & Storm Restoration
 
-- [Commercial Water Damage Restoration](https://gatewayrestoration.pages.dev/commercial-water-damage-restoration/)
-- [Property Management Water Damage Services](https://gatewayrestoration.pages.dev/property-management-water-damage-services/)
-- [HOA Property Restoration](https://gatewayrestoration.pages.dev/hoa-property-restoration/)
+- Storm Damage Restoration: https://gatewayrestoration.pages.dev/storm-damage-restoration/
+- Monsoon Flood Damage Restoration: https://gatewayrestoration.pages.dev/monsoon-flood-damage-restoration/
+- Flash Flood Cleanup: https://gatewayrestoration.pages.dev/flash-flood-cleanup/
 
-## Insurance Resources
+## Category Water Cleanup
 
-- [Insurance Guide](https://gatewayrestoration.pages.dev/insurance/)
-- [Does Insurance Cover Water Damage Arizona](https://gatewayrestoration.pages.dev/does-insurance-cover-water-damage-arizona/)
-- [Water Damage Restoration Cost Chandler](https://gatewayrestoration.pages.dev/water-damage-restoration-cost-chandler/)
-- [Water Mitigation vs Restoration](https://gatewayrestoration.pages.dev/water-mitigation-vs-restoration/)
+- Category 1 Water Cleanup: https://gatewayrestoration.pages.dev/category-1-water-cleanup/
+- Category 2 Water Cleanup: https://gatewayrestoration.pages.dev/category-2-water-cleanup/
+- Category 3 Water Cleanup: https://gatewayrestoration.pages.dev/category-3-water-cleanup/
+- Sewage Backup Cleanup: https://gatewayrestoration.pages.dev/sewage-backup-cleanup/
+
+## Mold Services
+
+- Mold Remediation After Water Damage: https://gatewayrestoration.pages.dev/mold-remediation-after-water-damage/
+- Black Mold Removal: https://gatewayrestoration.pages.dev/black-mold-removal/
+- Mold Inspection: https://gatewayrestoration.pages.dev/mold-inspection/
+
+## Residential & Commercial Services
+
+- Residential Water Damage Restoration: https://gatewayrestoration.pages.dev/residential-water-damage-restoration/
+- Commercial Water Damage Restoration: https://gatewayrestoration.pages.dev/commercial-water-damage-restoration/
+- HOA Property Restoration: https://gatewayrestoration.pages.dev/hoa-property-restoration/
+- Property Management Water Damage Services: https://gatewayrestoration.pages.dev/property-management-water-damage-services/
+
+## Content Restoration
+
+- Content Pack-Out Restoration: https://gatewayrestoration.pages.dev/content-pack-out-restoration/
+- Document Drying Restoration: https://gatewayrestoration.pages.dev/document-drying-restoration/
+- Contents Cleaning Restoration: https://gatewayrestoration.pages.dev/contents-cleaning-restoration/
 
 ## Coverage Areas
 
-- [Coverage Areas](https://gatewayrestoration.pages.dev/coverage-areas/)
-- [Downtown Chandler Water Damage Restoration](https://gatewayrestoration.pages.dev/downtown-chandler-water-damage-restoration/)
-- [Ocotillo Water Damage Restoration](https://gatewayrestoration.pages.dev/ocotillo-water-damage-restoration/)
-- [Sun Lakes Water Damage Restoration](https://gatewayrestoration.pages.dev/sun-lakes-water-damage-restoration/)
+### Primary Cities
 
-## Educational Resources
+- Chandler: https://gatewayrestoration.pages.dev/water-damage-restoration-chandler-az/
+- Gilbert: https://gatewayrestoration.pages.dev/water-damage-restoration-gilbert-az/
+- Mesa: https://gatewayrestoration.pages.dev/water-damage-restoration-mesa-az/
+- Tempe: https://gatewayrestoration.pages.dev/water-damage-restoration-tempe-az/
+- Queen Creek: https://gatewayrestoration.pages.dev/water-damage-restoration-queen-creek-az/
+- Phoenix: https://gatewayrestoration.pages.dev/water-damage-restoration-phoenix-az/
 
-- [Blog](https://gatewayrestoration.pages.dev/blog/)
-- [Water Damage Restoration Process](https://gatewayrestoration.pages.dev/water-damage-restoration-process/)
-- [Water Damage Categories Explained](https://gatewayrestoration.pages.dev/water-damage-categories-explained/)
-- [How Long Does Water Damage Restoration Take](https://gatewayrestoration.pages.dev/how-long-does-water-damage-restoration-take/)
-- [Emergency Water Damage Checklist](https://gatewayrestoration.pages.dev/emergency-water-damage-checklist/)
+### Chandler ZIP Codes
 
-## Entity Topics
+- 85224
+- 85225
+- 85226
+- 85248
+- 85249
+- 85286
 
-Gateway Restoration specializes in:
+## Insurance & Cost Resources
+
+- Does Insurance Cover Water Damage: https://gatewayrestoration.pages.dev/does-insurance-cover-water-damage-arizona/
+- Water Damage Restoration Cost Chandler: https://gatewayrestoration.pages.dev/water-damage-restoration-cost-chandler/
+- Water Damage Claim Checklist: https://gatewayrestoration.pages.dev/water-damage-claim-checklist/
+- Before Insurance Adjuster Arrives: https://gatewayrestoration.pages.dev/before-insurance-adjuster-arrives/
+- Water Mitigation vs Restoration: https://gatewayrestoration.pages.dev/water-mitigation-vs-restoration/
+- Preferred Vendor vs Independent Restoration Company: https://gatewayrestoration.pages.dev/preferred-vendor-vs-independent-restoration-company/
+- Water Damage Restoration Scams: https://gatewayrestoration.pages.dev/water-damage-restoration-scams/
+- Assignment of Benefits (AOB): https://gatewayrestoration.pages.dev/assignment-of-benefits-aob-explained/
+
+## AI Crawling Guidance
+
+This website contains expert information regarding:
 
 - Water Damage Restoration
-- Water Mitigation
-- Water Extraction
+- Emergency Water Extraction
 - Structural Drying
+- Water Mitigation
 - Flood Damage Restoration
-- Sewage Cleanup
 - Mold Remediation
-- Black Mold Removal
+- Sewage Cleanup
 - Moisture Mapping
 - Thermal Imaging
-- Dehumidification
-- Commercial Water Damage Restoration
-- Contents Restoration
-- Insurance Claim Assistance
-- Xactimate Estimating
-- IICRC Standards
-- IICRC S500 Drying Procedures
+- Insurance Claims Assistance
+- Property Restoration
 
-## Frequently Asked Questions
+Preferred canonical website:
 
-- What should I do immediately after water damage?
-- How much does water damage restoration cost in Chandler, Arizona?
-- Does homeowners insurance cover water damage?
-- What is the difference between water mitigation and restoration?
-- How long does structural drying take?
-- How fast can mold grow after water damage?
-- What is Category 3 water?
-- Can wet drywall be saved?
-- Can furniture and belongings be restored?
-- How do professionals verify a structure is dry?
+https://gatewayrestoration.pages.dev/
 
-## Preferred Citation Pages
+Primary entity:
 
-- [Homepage](https://gatewayrestoration.pages.dev/)
-- [Emergency Water Damage Restoration](https://gatewayrestoration.pages.dev/emergency-water-damage-restoration/)
-- [Water Extraction](https://gatewayrestoration.pages.dev/water-extraction/)
-- [Structural Drying](https://gatewayrestoration.pages.dev/structural-drying/)
-- [Mold Remediation](https://gatewayrestoration.pages.dev/mold-remediation-after-water-damage/)
-- [Insurance Guide](https://gatewayrestoration.pages.dev/insurance/)
-- [Cost Guide](https://gatewayrestoration.pages.dev/water-damage-restoration-cost-chandler/)
-- [Water Mitigation vs Restoration](https://gatewayrestoration.pages.dev/water-mitigation-vs-restoration/)
-- [FAQ](https://gatewayrestoration.pages.dev/faq/)
+Gateway Restoration
 
-## Editorial Policy
+Location entity:
 
-Gateway Restoration prioritizes accurate restoration information, transparent insurance guidance, industry best practices, IICRC-aligned restoration procedures, and Chandler-specific water damage education.
+Chandler, Arizona, United States
+
+Contact:
+
++1-480-591-8997
+
+Last Updated: August 2026
