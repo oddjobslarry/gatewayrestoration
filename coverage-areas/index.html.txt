@@ -1,0 +1,590 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Water Damage Restoration Service Areas | Chandler, Gilbert, Mesa, Tempe, Queen Creek & Phoenix</title>
+<meta name="description" content="Gateway Restoration provides 24/7 water damage restoration, flood cleanup, water extraction, and structural drying throughout Chandler, Gilbert, Mesa, Tempe, Queen Creek, and Phoenix. Fast emergency response.">
+<link rel="canonical" href="https://gatewayrestoration.pages.dev/coverage-areas/">
+<link rel="icon" href="https://gatewayrestoration.pages.dev/images/water-damage-chandler-az-by-gateway-restoration-logo.webp">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Gateway Restoration",
+  "image": "https://gatewayrestoration.pages.dev/images/water-damage-chandler-az-by-gateway-restoration-logo.webp",
+  "telephone": "+14805918997",
+  "priceRange": "$$",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "17817 S McQueen Rd",
+    "addressLocality": "Chandler",
+    "addressRegion": "AZ",
+    "postalCode": "85286",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.285804,
+    "longitude": -111.823522
+  },
+  "url": "https://gatewayrestoration.pages.dev/coverage-areas/",
+  "areaServed": [
+    {"@type": "City", "name": "Chandler, AZ"},
+    {"@type": "City", "name": "Gilbert, AZ"},
+    {"@type": "City", "name": "Mesa, AZ"},
+    {"@type": "City", "name": "Tempe, AZ"},
+    {"@type": "City", "name": "Queen Creek, AZ"},
+    {"@type": "City", "name": "Phoenix, AZ"}
+  ],
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+    "opens": "00:00",
+    "closes": "23:59"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Water Damage Restoration",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "Gateway Restoration",
+    "telephone": "+14805918997"
+  },
+  "areaServed": ["Chandler, AZ","Gilbert, AZ","Mesa, AZ","Tempe, AZ","Queen Creek, AZ","Phoenix, AZ"],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Water Damage Restoration Services",
+    "itemListElement": [
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Emergency Water Damage Restoration"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Water Extraction"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Structural Drying"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Flood Cleanup"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Sewage Cleanup"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Mold Prevention"}},
+      {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Commercial Restoration"}}
+    ]
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://gatewayrestoration.pages.dev/"},
+    {"@type": "ListItem", "position": 2, "name": "Coverage Areas", "item": "https://gatewayrestoration.pages.dev/coverage-areas/"}
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type": "Question", "name": "Do you provide emergency water damage restoration throughout the East Valley?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Gateway Restoration dispatches crews 24/7 to Chandler, Gilbert, Mesa, Tempe, Queen Creek, and Phoenix for burst pipes, flooding, sewage backups, and every other water damage emergency."}},
+    {"@type": "Question", "name": "How quickly can you reach Gilbert?", "acceptedAnswer": {"@type": "Answer", "text": "Our Chandler base sits minutes from Gilbert via the Loop 202 and Arizona Avenue corridor, so crews typically arrive within 30 to 45 minutes of an emergency call."}},
+    {"@type": "Question", "name": "Do you service Mesa commercial properties?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. We restore Mesa offices, retail centers, warehouses, and multi-family buildings, including after-hours dispatch to limit business interruption."}},
+    {"@type": "Question", "name": "Can you help with monsoon flood cleanup?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Monsoon season from June through September is our busiest stretch. We handle roof intrusion, flash flooding, and storm-driven water damage across every city we serve."}},
+    {"@type": "Question", "name": "Do you work with insurance companies?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. We document every job with photos and moisture logs, communicate directly with adjusters, and can arrange direct billing with many carriers."}},
+    {"@type": "Question", "name": "Do you provide mold prevention after water damage?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Every drying job includes antimicrobial treatment and moisture control to stop mold before it starts, since Arizona's warm indoor temperatures let mold develop within 24 to 48 hours of exposure."}},
+    {"@type": "Question", "name": "How far into Phoenix do you travel?", "acceptedAnswer": {"@type": "Answer", "text": "We cover Phoenix neighborhoods along the Loop 202 and Loop 101 corridors closest to the East Valley, including South Phoenix and Ahwatukee. Call to confirm coverage for your specific address."}},
+    {"@type": "Question", "name": "Are estimates free?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Every inspection and estimate is free, with no obligation, before any restoration work begins."}},
+    {"@type": "Question", "name": "Do you offer 24-hour emergency service?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Our crews are on call 24 hours a day, seven days a week, including holidays, across every city we serve."}},
+    {"@type": "Question", "name": "Which ZIP codes do you serve?", "acceptedAnswer": {"@type": "Answer", "text": "We serve 85224, 85225, 85226, 85248, 85249, 85286, and the surrounding East Valley ZIP codes across Chandler, Gilbert, Mesa, Tempe, Queen Creek, and Phoenix."}}
+  ]
+}
+</script>
+
+<style>
+:root{
+ --primary:#0B4F8C;
+ --secondary:#1E88E5;
+ --accent:#F97316;
+ --desert:#D9A441;
+ --light-blue:#DFF3FF;
+ --dark:#1F2937;
+ --bg:#F8FAFC;
+ --white:#FFFFFF;
+}
+*{box-sizing:border-box;margin:0;padding:0;}
+body{font-family:'Segoe UI',Roboto,Arial,sans-serif;color:var(--dark);background:var(--bg);line-height:1.65;}
+a{text-decoration:none;color:inherit;}
+img{max-width:100%;display:block;}
+.container{max-width:1180px;margin:0 auto;padding:0 24px;}
+h1,h2,h3{color:var(--primary);line-height:1.25;}
+h1{font-size:clamp(1.9rem,4vw,2.7rem);}
+h2{font-size:clamp(1.5rem,3vw,2rem);margin-bottom:14px;}
+h3{font-size:1.15rem;margin-bottom:8px;}
+p{margin-bottom:14px;}
+section{padding:60px 0;}
+.section-alt{background:var(--white);}
+
+/* Header */
+header{background:var(--white);border-bottom:1px solid #E5E9EF;position:sticky;top:0;z-index:50;}
+.header-inner{display:flex;align-items:center;justify-content:space-between;padding:14px 24px;max-width:1180px;margin:0 auto;}
+.brand{display:flex;align-items:center;gap:10px;font-weight:700;color:var(--primary);font-size:1.15rem;}
+.brand img{height:42px;width:auto;border-radius:6px;}
+nav{display:flex;gap:22px;align-items:center;}
+nav a{font-weight:600;font-size:0.95rem;color:var(--dark);}
+nav a:hover{color:var(--secondary);}
+nav a.active{color:var(--primary);border-bottom:2px solid var(--accent);padding-bottom:4px;}
+.header-cta{background:var(--accent);color:var(--white);padding:10px 20px;border-radius:8px;font-weight:700;white-space:nowrap;}
+.header-cta:hover{background:#e2650a;}
+.mobile-toggle{display:none;}
+
+/* Sticky mobile call bar */
+.sticky-call{display:none;position:fixed;bottom:0;left:0;right:0;background:var(--accent);color:var(--white);text-align:center;padding:14px;font-weight:700;font-size:1rem;z-index:60;}
+
+/* Hero */
+.hero{position:relative;background:linear-gradient(135deg,var(--primary),var(--secondary));color:var(--white);padding:70px 0 60px;overflow:hidden;}
+.hero-grid{display:grid;grid-template-columns:1.1fr 0.9fr;gap:40px;align-items:center;}
+.hero h1{color:var(--white);}
+.hero p.lede{font-size:1.1rem;opacity:0.95;margin:18px 0 26px;max-width:560px;}
+.hero-image-wrap{border-radius:16px;overflow:hidden;box-shadow:0 20px 45px rgba(0,0,0,0.25);}
+.cta-row{display:flex;gap:14px;flex-wrap:wrap;margin-bottom:26px;}
+.btn{display:inline-block;padding:14px 26px;border-radius:8px;font-weight:700;font-size:1rem;}
+.btn-primary{background:var(--accent);color:var(--white);}
+.btn-primary:hover{background:#e2650a;}
+.btn-secondary{background:var(--white);color:var(--primary);}
+.btn-secondary:hover{background:var(--light-blue);}
+.badges{display:flex;gap:10px;flex-wrap:wrap;}
+.badge{background:rgba(255,255,255,0.15);border:1px solid rgba(255,255,255,0.35);padding:8px 14px;border-radius:999px;font-size:0.85rem;font-weight:600;}
+
+/* City cards */
+.card-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;}
+.city-card{background:var(--white);border-radius:14px;padding:26px;box-shadow:0 6px 18px rgba(11,79,140,0.08);border:1px solid #E9EEF3;transition:transform .15s ease, box-shadow .15s ease;}
+.city-card:hover{transform:translateY(-4px);box-shadow:0 14px 30px rgba(11,79,140,0.15);}
+.city-card h3{color:var(--primary);font-size:1.3rem;}
+.city-card .meta{font-size:0.85rem;color:#5b6472;margin-bottom:10px;font-weight:600;}
+.city-card .risk-tag{display:inline-block;background:var(--light-blue);color:var(--primary);font-size:0.78rem;font-weight:700;padding:4px 10px;border-radius:6px;margin:3px 4px 0 0;}
+.city-card .card-cta{display:inline-block;margin-top:14px;color:var(--accent);font-weight:700;font-size:0.9rem;}
+.city-card .card-cta:hover{text-decoration:underline;}
+
+/* Feature grid (why / risks) */
+.feature-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;}
+.feature{background:var(--bg);border-left:4px solid var(--secondary);padding:20px 22px;border-radius:8px;}
+.feature h3{font-size:1.05rem;}
+
+/* ZIP grid */
+.zip-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;}
+.zip-card{background:var(--white);border:1px solid #E9EEF3;border-radius:12px;padding:20px;}
+.zip-card .zip-code{color:var(--accent);font-weight:800;font-size:1.4rem;}
+
+/* Services links */
+.service-links{display:grid;grid-template-columns:repeat(2,1fr);gap:14px 24px;}
+.service-links a{display:block;background:var(--white);border:1px solid #E9EEF3;border-radius:10px;padding:14px 18px;font-weight:600;color:var(--primary);}
+.service-links a span{display:block;font-weight:400;color:#5b6472;font-size:0.85rem;margin-top:4px;}
+.service-links a:hover{border-color:var(--secondary);background:var(--light-blue);}
+
+/* FAQ accordion */
+.faq details{background:var(--white);border:1px solid #E9EEF3;border-radius:10px;padding:16px 20px;margin-bottom:12px;}
+.faq summary{cursor:pointer;font-weight:700;color:var(--primary);font-size:1.02rem;list-style:none;display:flex;justify-content:space-between;align-items:center;}
+.faq summary::-webkit-details-marker{display:none;}
+.faq summary::after{content:"+";font-size:1.4rem;color:var(--accent);}
+.faq details[open] summary::after{content:"–";}
+.faq details p{margin-top:12px;margin-bottom:0;color:#3a4250;}
+
+/* Map / contact */
+.map-wrap{border-radius:14px;overflow:hidden;box-shadow:0 6px 18px rgba(11,79,140,0.1);}
+.map-wrap iframe{width:100%;height:400px;border:0;}
+.area-pill-row{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px;}
+.area-pill{background:var(--light-blue);color:var(--primary);font-weight:700;padding:8px 16px;border-radius:999px;font-size:0.85rem;}
+
+/* Closing CTA */
+.closing-cta{background:linear-gradient(135deg,var(--primary),#0d3f70);color:var(--white);text-align:center;border-radius:18px;padding:50px 30px;}
+.closing-cta h2{color:var(--white);}
+.closing-cta .cta-row{justify-content:center;}
+.closing-cta .contact-block{margin-top:24px;font-size:0.95rem;opacity:0.95;}
+
+footer{background:var(--dark);color:#cbd5e1;padding:40px 0;}
+footer .container{display:flex;flex-direction:column;gap:8px;}
+footer a{color:#DFF3FF;}
+footer .fine{font-size:0.85rem;color:#94a3b8;}
+
+@media (max-width:900px){
+  .hero-grid{grid-template-columns:1fr;}
+  .card-grid{grid-template-columns:repeat(2,1fr);}
+  .feature-grid{grid-template-columns:1fr;}
+  .zip-grid{grid-template-columns:repeat(2,1fr);}
+  .service-links{grid-template-columns:1fr;}
+  nav{display:none;}
+}
+@media (max-width:600px){
+  .card-grid{grid-template-columns:1fr;}
+  .zip-grid{grid-template-columns:1fr;}
+  .sticky-call{display:block;}
+  body{padding-bottom:56px;}
+  .header-cta{display:none;}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <a href="https://gatewayrestoration.pages.dev/" class="brand">
+      <img src="https://gatewayrestoration.pages.dev/images/water-damage-chandler-az-by-gateway-restoration-logo.webp" alt="Gateway Restoration logo">
+      Gateway Restoration
+    </a>
+    <nav>
+      <a href="https://gatewayrestoration.pages.dev/">Home</a>
+      <a href="https://gatewayrestoration.pages.dev/services/">Services</a>
+      <a href="https://gatewayrestoration.pages.dev/coverage-areas/" class="active">Coverage Areas</a>
+      <a href="https://gatewayrestoration.pages.dev/insurance">Insurance &amp; Cost</a>
+      <a href="https://gatewayrestoration.pages.dev/about">About Us</a>
+      <a href="https://gatewayrestoration.pages.dev/blog/">Blog</a>
+      <a href="https://gatewayrestoration.pages.dev/contact">Contact</a>
+    </nav>
+    <a href="tel:14805918997" class="header-cta">📞 (480) 591-8997</a>
+  </div>
+</header>
+
+<a href="tel:14805918997" class="sticky-call">📞 Call Now: (480) 591-8997</a>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="container hero-grid">
+    <div>
+      <h1>Water Damage Restoration Service Areas Across Chandler, AZ &amp; The East Valley</h1>
+      <p class="lede">Gateway Restoration provides 24/7 Emergency Water Damage Restoration, Water Extraction, Structural Drying, Flood Cleanup, Sewage Cleanup, Mold Prevention, and Commercial Restoration throughout Chandler, Gilbert, Mesa, Tempe, Queen Creek, and Phoenix. Water is spreading right now — call <a href="tel:14805918997" style="color:#fff;text-decoration:underline;">(480) 591-8997</a> for immediate dispatch.</p>
+      <div class="cta-row">
+        <a href="tel:14805918997" class="btn btn-primary">Call Now: (480) 591-8997</a>
+        <a href="https://gatewayrestoration.pages.dev/contact" class="btn btn-secondary">Free Inspection</a>
+      </div>
+      <div class="badges">
+        <span class="badge">24/7 Emergency Service</span>
+        <span class="badge">IICRC Standards</span>
+        <span class="badge">Insurance Assistance</span>
+        <span class="badge">Locally Owned in Chandler</span>
+      </div>
+    </div>
+    <div class="hero-image-wrap">
+      <img src="/images/location-we-serve-chandler-gateway-restoration-chandler-az.webp" alt="Gateway Restoration service area map covering Chandler and the East Valley">
+    </div>
+  </div>
+</section>
+
+<!-- AREAS WE SERVE -->
+<section class="section-alt">
+  <div class="container">
+    <h2>Areas We Serve</h2>
+    <p>Gateway Restoration is based in Chandler and dispatches crews across the entire East Valley. Find your city below to see local risks, response times, and get connected to your dedicated coverage page.</p>
+    <div class="card-grid">
+
+      <div class="city-card">
+        <h3>Chandler, AZ</h3>
+        <div class="meta">Population ~280,000 · Home Base</div>
+        <p>Our home city. Caliche soil, slab-on-grade construction, and monsoon storms drive most local claims.</p>
+        <span class="risk-tag">Slab Leaks</span><span class="risk-tag">Monsoon Flooding</span><span class="risk-tag">Water Heater Failures</span>
+        <div><a href="https://gatewayrestoration.pages.dev/coverage-areas/water-damage-restoration-chandler-az/" class="card-cta">View Chandler Coverage →</a></div>
+      </div>
+
+      <div class="city-card">
+        <h3>Gilbert, AZ</h3>
+        <div class="meta">Population ~275,000 · ~15 min response</div>
+        <p>Newer subdivisions with tile roofing and irrigation systems create unique leak points around Gilbert homes.</p>
+        <span class="risk-tag">Irrigation Leaks</span><span class="risk-tag">Roof Leaks</span><span class="risk-tag">Appliance Failures</span>
+        <div><a href="https://gatewayrestoration.pages.dev/coverage-areas/water-damage-restoration-gilbert-az/" class="card-cta">View Gilbert Coverage →</a></div>
+      </div>
+
+      <div class="city-card">
+        <h3>Mesa, AZ</h3>
+        <div class="meta">Population ~510,000 · ~20 min response</div>
+        <p>A mix of aging plumbing in older Mesa neighborhoods and rapid new construction near Downtown Mesa.</p>
+        <span class="risk-tag">Aging Plumbing</span><span class="risk-tag">Burst Pipes</span><span class="risk-tag">Commercial Losses</span>
+        <div><a href="https://gatewayrestoration.pages.dev/coverage-areas/water-damage-restoration-mesa-az/" class="card-cta">View Mesa Coverage →</a></div>
+      </div>
+
+      <div class="city-card">
+        <h3>Tempe, AZ</h3>
+        <div class="meta">Population ~180,000 · ~25 min response</div>
+        <p>Dense multi-family housing near ASU and Tempe Town Lake means fast containment matters even more.</p>
+        <span class="risk-tag">Multi-Family Leaks</span><span class="risk-tag">AC Condensate</span><span class="risk-tag">Storm Damage</span>
+        <div><a href="https://gatewayrestoration.pages.dev/coverage-areas/water-damage-restoration-tempe-az/" class="card-cta">View Tempe Coverage →</a></div>
+      </div>
+
+      <div class="city-card">
+        <h3>Queen Creek, AZ</h3>
+        <div class="meta">Population ~75,000 · ~20 min response</div>
+        <p>Fast-growing community where new-build plumbing defects and expansive clay soil both play a role.</p>
+        <span class="risk-tag">Clay Soil Shifting</span><span class="risk-tag">New Construction Leaks</span><span class="risk-tag">Flash Flooding</span>
+        <div><a href="https://gatewayrestoration.pages.dev/coverage-areas/water-damage-restoration-queen-creek-az/" class="card-cta">View Queen Creek Coverage →</a></div>
+      </div>
+
+      <div class="city-card">
+        <h3>Phoenix, AZ</h3>
+        <div class="meta">Population 1.6M+ · East Phoenix &amp; Ahwatukee coverage</div>
+        <p>We cover Phoenix neighborhoods closest to the East Valley along the Loop 202 and Loop 101 corridors.</p>
+        <span class="risk-tag">Older Plumbing</span><span class="risk-tag">Monsoon Storms</span><span class="risk-tag">Commercial Restoration</span>
+        <div><a href="https://gatewayrestoration.pages.dev/coverage-areas/water-damage-restoration-phoenix-az/" class="card-cta">View Phoenix Coverage →</a></div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- WHY WE SERVE THE ENTIRE EAST VALLEY -->
+<section>
+  <div class="container">
+    <h2>Why We Serve The Entire East Valley</h2>
+    <p>Gateway Restoration is headquartered at 17817 S McQueen Rd in Chandler, giving us direct access to the Loop 202 and Arizona Avenue corridor that connects every city we serve. That central position isn't an accident — it's the reason we can promise rapid response instead of just claiming it.</p>
+    <div class="feature-grid">
+      <div class="feature">
+        <h3>Strategic Chandler Location</h3>
+        <p>Our McQueen Road base sits within a short drive of Gilbert, Mesa, Tempe, Queen Creek, and East Phoenix, cutting the drive time that costs other companies hours.</p>
+      </div>
+      <div class="feature">
+        <h3>Major Transportation Corridors</h3>
+        <p>The Loop 202 and Loop 101 give our crews direct routes into every neighborhood we cover, even during peak traffic or a monsoon downpour.</p>
+      </div>
+      <div class="feature">
+        <h3>Fleet Deployment</h3>
+        <p>Trucks are stocked with extraction equipment, air movers, and dehumidifiers so a crew can begin mitigation the moment they arrive, not after a second trip.</p>
+      </div>
+      <div class="feature">
+        <h3>Emergency Scheduling</h3>
+        <p>Dispatch runs 24 hours a day, seven days a week. Emergency calls are prioritized ahead of routine estimates so active water damage gets stopped first.</p>
+      </div>
+      <div class="feature">
+        <h3>Rapid Response Coverage</h3>
+        <p>Most calls within our primary coverage area receive a crew on-site within 30 to 45 minutes, with Chandler and Gilbert typically the fastest.</p>
+      </div>
+      <div class="feature">
+        <h3>Local Knowledge</h3>
+        <p>We know which neighborhoods sit on caliche soil, which flood first during monsoon season, and which HOAs require specific documentation — knowledge that speeds up every job.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- COMMON WATER DAMAGE PROBLEMS -->
+<section class="section-alt">
+  <div class="container">
+    <h2>Common Water Damage Problems Across Our Service Area</h2>
+    <p>The same set of problems shows up again and again across Chandler, Gilbert, Mesa, Tempe, Queen Creek, and Phoenix, shaped by shared soil conditions, plumbing age, and Arizona's monsoon weather.</p>
+    <div class="feature-grid">
+      <div class="feature"><h3><a href="https://gatewayrestoration.pages.dev/services/burst-pipe-water-damage/">Burst Pipes</a></h3><p>Sudden pipe failures from pressure spikes or corrosion release large volumes of water fast.</p></div>
+      <div class="feature"><h3><a href="https://gatewayrestoration.pages.dev/services/slab-leak-water-damage/">Slab Leaks</a></h3><p>Caliche and clay soils trap water beneath slab foundations, often hiding leaks until flooring buckles.</p></div>
+      <div class="feature"><h3><a href="https://gatewayrestoration.pages.dev/services/water-heater-leak-damage/">Water Heater Failures</a></h3><p>Aging tanks and worn fittings are one of the most common sources of interior flooding we see.</p></div>
+      <div class="feature"><h3><a href="https://gatewayrestoration.pages.dev/services/appliance-leak-water-damage/">Appliance Leaks</a></h3><p>Washing machines, dishwashers, and refrigerator lines fail quietly until a room is already soaked.</p></div>
+      <div class="feature"><h3><a href="https://gatewayrestoration.pages.dev/services/ac-leak-water-damage/">AC Condensate Overflows</a></h3><p>Arizona's heavy AC use makes clogged condensate lines a leading cause of attic and ceiling damage.</p></div>
+      <div class="feature"><h3><a href="https://gatewayrestoration.pages.dev/services/roof-leak-water-damage/">Roof Leaks</a></h3><p>Monsoon wind and hail expose weak points in roofing that let water intrude during storms.</p></div>
+      <div class="feature"><h3><a href="https://gatewayrestoration.pages.dev/services/monsoon-flood-damage-restoration/">Monsoon Flooding</a></h3><p>Intense summer storms overwhelm roofs, gutters, and grading in minutes across the East Valley.</p></div>
+      <div class="feature"><h3><a href="https://gatewayrestoration.pages.dev/services/storm-damage-restoration/">Storm Damage</a></h3><p>Wind-driven rain and hail can force water past windows, doors, and exterior walls.</p></div>
+      <div class="feature"><h3><a href="https://gatewayrestoration.pages.dev/services/irrigation-system-leak-damage/">Irrigation System Leaks</a></h3><p>Buried irrigation lines near foundations often leak undetected until soil erosion or slab moisture appears.</p></div>
+      <div class="feature"><h3><a href="https://gatewayrestoration.pages.dev/services/foundation-water-intrusion/">Sewage Backups</a></h3><p>Tree roots and aging municipal lines can push contaminated Category 3 water back into homes.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- WHY CHANDLER AREA HOMES EXPERIENCE WATER DAMAGE -->
+<section>
+  <div class="container">
+    <h2>Why Chandler Area Homes Experience Water Damage</h2>
+    <p>Water damage across the East Valley isn't random — it's shaped by the region's soil, construction methods, and climate. Understanding these local conditions helps homeowners recognize risk before it becomes an emergency.</p>
+    <p><strong>Caliche soil</strong>, a hard, cement-like layer beneath the topsoil common throughout Chandler, Gilbert, and Queen Creek, drains poorly, so water from a slab leak or irrigation failure has nowhere to go but up into the foundation. <strong>Expansive clay soil</strong> in pockets of Mesa and Queen Creek shifts as it absorbs moisture, stressing slab foundations and plumbing lines over time.</p>
+    <p>Most East Valley homes use <strong>slab-on-grade construction</strong>, which means plumbing runs beneath the concrete foundation itself — a slab leak in Chandler, Gilbert, or Tempe can go undetected for weeks before a homeowner notices warm spots on the floor or a spike in the water bill.</p>
+    <p><strong>Monsoon storms</strong> between June and September bring intense, fast-moving rain that overwhelms roofs and drainage across every city we serve, while <strong>flash flooding</strong> backs up against homes near washes in Queen Creek and South Phoenix. Arizona's reliance on air conditioning also makes <strong>HVAC condensate issues</strong> a common, easy-to-miss source of interior water damage in attics above bedrooms from Tempe to Mesa.</p>
+    <p><strong>Aging plumbing</strong> is a bigger factor in older Mesa, Tempe, and Phoenix neighborhoods, where galvanized pipe corrodes faster under the region's hard water. And <strong>extreme summer temperatures</strong> stress rubber gaskets, supply lines, and water heater components across every city, raising failure rates during the hottest months.</p>
+  </div>
+</section>
+
+<!-- ZIP CODES -->
+<section class="section-alt">
+  <div class="container">
+    <h2>Emergency Response Coverage By ZIP Code</h2>
+    <p>Our core coverage area centers on six ZIP codes surrounding our Chandler headquarters, each with distinct neighborhood characteristics and common service requests.</p>
+    <div class="zip-grid">
+      <div class="zip-card"><div class="zip-code">85224</div><p>Central Chandler neighborhoods near Arizona Avenue with a mix of established homes and aging plumbing, plus fast access via Loop 202.</p></div>
+      <div class="zip-card"><div class="zip-code">85225</div><p>West-central Chandler covering Downtown Chandler and the Price Corridor, where our crews are positioned for the fastest response times.</p></div>
+      <div class="zip-card"><div class="zip-code">85226</div><p>Northwest Chandler bordering Ahwatukee, seeing frequent slab leak and monsoon-related roof leak calls.</p></div>
+      <div class="zip-card"><div class="zip-code">85248</div><p>Ocotillo and the golf course communities, where irrigation system leaks and appliance failures are common requests.</p></div>
+      <div class="zip-card"><div class="zip-code">85249</div><p>South Chandler near Sun Lakes, with a large share of AC condensate and water heater leak service calls.</p></div>
+      <div class="zip-card"><div class="zip-code">85286</div><p>Home to our McQueen Road headquarters, giving this ZIP code and its surrounding neighborhoods our fastest possible dispatch.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- CITIES WE SERVE - DETAILED -->
+<section>
+  <div class="container">
+    <h2>Cities We Serve</h2>
+
+    <h3>Chandler, AZ</h3>
+    <p>Chandler is home to Gateway Restoration's headquarters, which means it's also where our response times are fastest. Neighborhoods like Downtown Chandler, Ocotillo, Sun Lakes, Cooper Commons, Fox Crossing, and Clemente Ranch each present slightly different housing stock — from established mid-century homes near the city center to newer golf-course construction around Ocotillo Golf Club — but they share the same underlying risks: caliche soil that traps moisture beneath slab foundations, monsoon storms that push water through rooflines, and hard water that accelerates plumbing corrosion. We regularly respond to slab leaks near Downtown Chandler, irrigation and appliance leaks around Ocotillo and Sun Lakes, and roof leaks near Tumbleweed Park and Veterans Oasis Park after monsoon storms. Because our crews are based minutes away, most Chandler emergency calls see a truck on-site in well under 30 minutes, with full extraction and drying equipment already loaded. Typical restoration projects here range from single-room appliance leak cleanup to full structural drying after a slab leak has been running undetected for days.</p>
+
+    <h3>Gilbert, AZ</h3>
+    <p>Gilbert's housing stock skews newer than much of the East Valley, with large master-planned communities built over the past two decades. That newer construction doesn't eliminate water damage risk — it shifts it. Tile roofing common in Gilbert subdivisions can crack or shift during monsoon wind events, and the extensive irrigation systems that keep desert landscaping green are a frequent source of slow leaks near foundations. We also see a steady volume of appliance and water heater failures in Gilbert's higher-density subdivisions, where shared walls mean a single leak can affect multiple rooms quickly. Reaching Gilbert from our Chandler base takes roughly 15 to 20 minutes via Arizona Avenue or the Loop 202, and our crews carry the same truck-mounted extraction and commercial drying equipment used on every job. Common restoration projects in Gilbert include irrigation-related slab moisture, roof leak repairs after monsoon storms, and full-home drying following washing machine or water heater failures in two-story homes.</p>
+
+    <h3>Mesa, AZ</h3>
+    <p>Mesa is the largest city in our service area, and its housing stock reflects decades of growth — from established neighborhoods near Downtown Mesa with older galvanized plumbing to newer development on the city's outer edges. That range means we see the widest variety of water damage calls in Mesa: burst pipes and slab leaks tied to aging infrastructure in central Mesa, alongside new-construction plumbing defects further out. Mesa's commercial corridor also generates significant call volume, and our crews are equipped to handle office buildings, retail spaces, and multi-family properties with the same urgency as residential jobs, since business interruption carries its own cost pressure. Response to Mesa typically runs 20 to 30 minutes depending on the specific neighborhood. Typical restoration projects include burst pipe cleanup in older homes, commercial water extraction after hours, and structural drying for multi-unit residential buildings.</p>
+
+    <h3>Tempe, AZ</h3>
+    <p>Tempe's proximity to Arizona State University and Tempe Town Lake means a dense concentration of multi-family housing — apartments, condos, and student housing — alongside established single-family neighborhoods. In multi-family buildings, a single water heater or supply line failure can affect several units at once, so our response prioritizes fast containment to limit how far water travels through shared walls and flooring. AC condensate overflows are especially common in Tempe's older apartment stock, where units run constantly through the summer months. We also handle storm damage along the Tempe Town Lake corridor after monsoon events. Crews reach Tempe in roughly 25 to 30 minutes from our Chandler base. Typical projects include multi-unit water extraction, AC condensate damage repair in rental properties, and structural drying coordinated with property managers and HOAs.</p>
+
+    <h3>Queen Creek, AZ</h3>
+    <p>Queen Creek is one of the fastest-growing communities in the East Valley, and that growth brings its own water damage patterns. New-construction plumbing defects — improperly sealed fittings, incomplete pressure testing — show up more often here than in older, established cities. Queen Creek also sits on a mix of caliche and expansive clay soil, which shifts foundations and stresses slab plumbing as it absorbs and releases moisture through the seasons. Flash flooding near washes on the community's outer edges is another recurring concern during monsoon season. Response to Queen Creek runs about 20 to 25 minutes from our headquarters. Typical restoration projects include new-build slab leak investigation using moisture mapping and thermal imaging, foundation water intrusion after flash flooding, and structural drying for homes affected by clay soil movement around plumbing lines.</p>
+
+    <h3>Phoenix, AZ</h3>
+    <p>Our Phoenix coverage focuses on the neighborhoods closest to the East Valley, reachable via the Loop 202 and Loop 101 — primarily South Phoenix and Ahwatukee. Housing stock here tends to be older than in Chandler or Gilbert, which means aging plumbing and corroded galvanized pipe are more common causes of water damage. We also handle a meaningful volume of commercial restoration work in this part of Phoenix, from small retail spaces to office buildings. Monsoon storms hit this corridor just as hard as the rest of the East Valley, and flat commercial roofing is particularly vulnerable to ponding and leaks during heavy rain. Response time into our Phoenix coverage area typically runs 25 to 35 minutes. If you're outside South Phoenix or Ahwatukee, call to confirm coverage for your specific address. Typical projects include commercial roof leak restoration, aging-plumbing burst pipe cleanup, and structural drying for older single-family homes.</p>
+  </div>
+</section>
+
+<!-- SERVICES AVAILABLE -->
+<section class="section-alt">
+  <div class="container">
+    <h2>Water Damage Services Available In Every Coverage Area</h2>
+    <p>Every service below is available across Chandler, Gilbert, Mesa, Tempe, Queen Creek, and Phoenix.</p>
+    <div class="service-links">
+      <a href="https://gatewayrestoration.pages.dev/services/emergency-water-damage-restoration/">Emergency Water Damage Restoration<span>24/7 dispatch to stop active water intrusion.</span></a>
+      <a href="https://gatewayrestoration.pages.dev/services/24-hour-water-damage-restoration/">24-Hour Water Damage Restoration<span>Round-the-clock crews, every day of the year.</span></a>
+      <a href="https://gatewayrestoration.pages.dev/services/emergency-flood-cleanup/">Emergency Flood Cleanup<span>Rapid response to monsoon and flash flood intrusion.</span></a>
+      <a href="https://gatewayrestoration.pages.dev/services/water-extraction/">Water Extraction<span>Truck-mounted extraction removes standing water fast.</span></a>
+      <a href="https://gatewayrestoration.pages.dev/services/structural-drying/">Structural Drying<span>Commercial air movers and dehumidifiers dry framing and drywall.</span></a>
+      <a href="https://gatewayrestoration.pages.dev/services/water-mitigation/">Water Mitigation<span>Immediate steps that stop damage before it spreads.</span></a>
+      <a href="https://gatewayrestoration.pages.dev/services/dehumidification-services/">Dehumidification Services<span>Commercial-grade moisture removal from the air.</span></a>
+      <a href="https://gatewayrestoration.pages.dev/services/moisture-mapping-thermal-imaging/">Moisture Mapping &amp; Thermal Imaging<span>Finds hidden water pockets behind walls and floors.</span></a>
+      <a href="https://gatewayrestoration.pages.dev/services/burst-pipe-water-damage/">Burst Pipe Water Damage<span>Fast response to sudden pipe failures.</span></a>
+      <a href="https://gatewayrestoration.pages.dev/services/slab-leak-water-damage/">Slab Leak Water Damage<span>Detection and drying for foundation-level leaks.</span></a>
+      <a href="https://gatewayrestoration.pages.dev/services/water-heater-leak-damage/">Water Heater Leak Damage<span>Cleanup and drying after tank or line failures.</span></a>
+      <a href="https://gatewayrestoration.pages.dev/services/roof-leak-water-damage/">Roof Leak Water Damage<span>Interior restoration after monsoon roof intrusion.</span></a>
+      <a href="https://gatewayrestoration.pages.dev/services/appliance-leak-water-damage/">Appliance Leak Water Damage<span>Restoration after washer, dishwasher, and fridge leaks.</span></a>
+      <a href="https://gatewayrestoration.pages.dev/services/ac-leak-water-damage/">AC Leak Water Damage<span>Repairs for condensate overflow damage.</span></a>
+      <a href="https://gatewayrestoration.pages.dev/services/foundation-water-intrusion/">Foundation Water Intrusion<span>Addressing water entry at the slab and foundation.</span></a>
+      <a href="https://gatewayrestoration.pages.dev/services/irrigation-system-leak-damage/">Irrigation System Leak Damage<span>Restoration for landscaping-related leaks.</span></a>
+      <a href="https://gatewayrestoration.pages.dev/services/storm-damage-restoration/">Storm Damage Restoration<span>Cleanup after wind, hail, and heavy rain.</span></a>
+      <a href="https://gatewayrestoration.pages.dev/services/monsoon-flood-damage-restoration/">Monsoon Flood Damage Restoration<span>Specialized response for Arizona's storm season.</span></a>
+      <a href="https://gatewayrestoration.pages.dev/services/residential-water-damage-restoration/">Residential Water Damage Restoration<span>Complete restoration for single-family homes.</span></a>
+      <a href="https://gatewayrestoration.pages.dev/services/commercial-water-damage-restoration/">Commercial Water Damage Restoration<span>Minimizing downtime for businesses.</span></a>
+      <a href="https://gatewayrestoration.pages.dev/services/hoa-property-restoration/">HOA Property Restoration<span>Coordinated response for community associations.</span></a>
+      <a href="https://gatewayrestoration.pages.dev/services/property-management-water-damage-services/">Property Management Water Damage Services<span>Reliable partners for managed portfolios.</span></a>
+      <a href="https://gatewayrestoration.pages.dev/services/content-pack-out-restoration/">Content Pack-Out Restoration<span>Safely removing belongings during major jobs.</span></a>
+      <a href="https://gatewayrestoration.pages.dev/services/document-drying-restoration/">Document Drying Restoration<span>Saving important papers and records.</span></a>
+      <a href="https://gatewayrestoration.pages.dev/services/contents-cleaning-restoration/">Contents Cleaning Restoration<span>Cleaning and restoring furniture and belongings.</span></a>
+    </div>
+  </div>
+</section>
+
+<!-- WHY CHOOSE US -->
+<section>
+  <div class="container">
+    <h2>Why Homeowners Across The East Valley Choose Gateway Restoration</h2>
+    <div class="feature-grid">
+      <div class="feature"><h3>Local Ownership</h3><p>We're based in Chandler, not routed through an out-of-state call center or subcontractor network.</p></div>
+      <div class="feature"><h3>24/7 Response</h3><p>Emergency dispatch runs day and night, every day of the year, across the entire East Valley.</p></div>
+      <div class="feature"><h3>Advanced Equipment</h3><p>Truck-mounted extraction, commercial air movers, and industrial dehumidifiers on every job.</p></div>
+      <div class="feature"><h3>Moisture Mapping &amp; Thermal Imaging</h3><p>We find hidden water pockets behind walls and under flooring before they become mold.</p></div>
+      <div class="feature"><h3>Structural Drying</h3><p>IICRC-calculated equipment placement dries framing, subfloor, and drywall correctly the first time.</p></div>
+      <div class="feature"><h3>Insurance Documentation</h3><p>Photos, moisture logs, and reports built specifically for your adjuster and claim.</p></div>
+      <div class="feature"><h3>Honest Pricing</h3><p>Transparent, itemized estimates before any work begins — no inflated line items.</p></div>
+      <div class="feature"><h3>Fast Dispatch</h3><p>Our central Chandler location and stocked fleet mean crews arrive ready to work immediately.</p></div>
+      <div class="feature"><h3>Chandler-Based Operations</h3><p>Every crew works out of our McQueen Road headquarters, giving us direct knowledge of local conditions.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- MAP -->
+<section class="section-alt">
+  <div class="container">
+    <h2>Google Map &amp; Service Radius</h2>
+    <p>Gateway Restoration is headquartered at 17817 S McQueen Rd, Chandler, AZ 85286. Our service radius extends across the East Valley, covering Chandler, Gilbert, Mesa, Tempe, Queen Creek, and the closest Phoenix neighborhoods along the Loop 202 and Loop 101.</p>
+    <div class="map-wrap">
+      <iframe src="https://www.google.com/maps?q=17817+S+McQueen+Rd,+Chandler,+AZ+85286&output=embed" loading="lazy" title="Gateway Restoration location map"></iframe>
+    </div>
+    <div class="area-pill-row">
+      <span class="area-pill">Chandler</span>
+      <span class="area-pill">Gilbert</span>
+      <span class="area-pill">Mesa</span>
+      <span class="area-pill">Tempe</span>
+      <span class="area-pill">Queen Creek</span>
+      <span class="area-pill">Phoenix</span>
+    </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section>
+  <div class="container">
+    <h2>Frequently Asked Questions</h2>
+    <div class="faq">
+      <details>
+        <summary>Do you provide emergency water damage restoration throughout the East Valley?</summary>
+        <p>Yes. Gateway Restoration dispatches crews 24/7 to Chandler, Gilbert, Mesa, Tempe, Queen Creek, and Phoenix for burst pipes, flooding, sewage backups, and every other water damage emergency.</p>
+      </details>
+      <details>
+        <summary>How quickly can you reach Gilbert?</summary>
+        <p>Our Chandler headquarters sits minutes from Gilbert via the Loop 202 and Arizona Avenue corridor, so crews typically arrive within 30 to 45 minutes of an emergency call.</p>
+      </details>
+      <details>
+        <summary>Do you service Mesa commercial properties?</summary>
+        <p>Yes. We restore Mesa offices, retail centers, warehouses, and multi-family buildings, including after-hours dispatch to limit business interruption.</p>
+      </details>
+      <details>
+        <summary>Can you help with monsoon flood cleanup?</summary>
+        <p>Yes. Monsoon season from June through September is our busiest stretch. We handle roof intrusion, flash flooding, and storm-driven water damage across every city we serve.</p>
+      </details>
+      <details>
+        <summary>Do you work with insurance companies?</summary>
+        <p>Yes. We document every job with photos and moisture logs, communicate directly with adjusters, and can arrange direct billing with many carriers.</p>
+      </details>
+      <details>
+        <summary>Do you provide mold prevention after water damage?</summary>
+        <p>Yes. Every drying job includes antimicrobial treatment and moisture control to stop mold before it starts, since Arizona's warm indoor temperatures let mold develop within 24 to 48 hours of exposure.</p>
+      </details>
+      <details>
+        <summary>How far into Phoenix do you travel?</summary>
+        <p>We cover Phoenix neighborhoods along the Loop 202 and Loop 101 corridors closest to the East Valley, including South Phoenix and Ahwatukee. Call to confirm coverage for your specific address.</p>
+      </details>
+      <details>
+        <summary>Are estimates free?</summary>
+        <p>Yes. Every inspection and estimate is free, with no obligation, before any restoration work begins.</p>
+      </details>
+      <details>
+        <summary>Do you offer 24-hour emergency service?</summary>
+        <p>Yes. Our crews are on call 24 hours a day, seven days a week, including holidays, across every city we serve.</p>
+      </details>
+      <details>
+        <summary>Which ZIP codes do you serve?</summary>
+        <p>We serve 85224, 85225, 85226, 85248, 85249, 85286, and the surrounding East Valley ZIP codes across Chandler, Gilbert, Mesa, Tempe, Queen Creek, and Phoenix.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- CLOSING CTA -->
+<section class="section-alt">
+  <div class="container">
+    <div class="closing-cta">
+      <h2>Request Emergency Water Damage Service</h2>
+      <p>Water damage doesn't wait, and neither do we. Call now for immediate dispatch anywhere across the East Valley, or request a free inspection.</p>
+      <div class="cta-row">
+        <a href="tel:14805918997" class="btn btn-primary">Call Now: (480) 591-8997</a>
+        <a href="https://gatewayrestoration.pages.dev/contact" class="btn btn-secondary">Request Free Inspection</a>
+      </div>
+      <div class="contact-block">
+        <strong>Gateway Restoration</strong><br>
+        17817 S McQueen Rd, Chandler, AZ 85286<br>
+        Serving Chandler, Gilbert, Mesa, Tempe, Queen Creek &amp; Phoenix
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <div><strong>Gateway Restoration</strong> — 17817 S McQueen Rd, Chandler, AZ 85286 — <a href="tel:14805918997">(480) 591-8997</a></div>
+    <div class="fine">Serving Chandler, Gilbert, Mesa, Tempe, Queen Creek, and Phoenix, AZ. Licensed, insured, and IICRC-trained water damage restoration specialists.</div>
+  </div>
+</footer>
+
+</body>
+</html>
