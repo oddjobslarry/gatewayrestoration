@@ -542,12 +542,12 @@
       <p>Tell us about your property and the water event, and our team will follow up immediately to coordinate response.</p>
       <form onsubmit="return false;">
         <div class="form-row">
-          <input type="text" placeholder="Business / Property Name" required>
-          <input type="text" placeholder="Contact Name" required>
+          <input type="text" placeholder="Business / Property Name" aria-label="Business or Property Name" required>
+          <input type="text" placeholder="Contact Name" aria-label="Contact Name" required>
         </div>
         <div class="form-row">
-          <input type="tel" placeholder="Phone Number" required>
-          <input type="email" placeholder="Email Address" required>
+          <input type="tel" placeholder="Phone Number" aria-label="Phone Number" required>
+          <input type="email" placeholder="Email Address" aria-label="Email Address" required>
         </div>
         <div class="form-full">
           <select required aria-label="Property Type">
@@ -562,7 +562,7 @@
           </select>
         </div>
         <div class="form-full">
-          <textarea rows="4" placeholder="Briefly describe the water damage event"></textarea>
+          <textarea rows="4" placeholder="Briefly describe the water damage event" aria-label="Description of water damage event"></textarea>
         </div>
         <button class="btn btn-primary" type="submit" style="border:none;cursor:pointer;">Request Emergency Service</button>
       </form>
