@@ -229,8 +229,9 @@
 
   .form-card{background:#fff;border-radius:var(--radius);padding:28px;box-shadow:var(--shadow-lg);border:1px solid #EDF2F7;}
   .form-row{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:14px;}
-  .form-row input,.form-row select,.form-full textarea,.form-full input{width:100%;padding:12px 14px;border-radius:8px;border:1px solid #D8E4F0;font-size:.95rem;font-family:inherit;}
+  .form-row input,.form-row select,.form-full textarea,.form-full input,.form-full select{width:100%;padding:12px 14px;border-radius:8px;border:1px solid #D8E4F0;font-size:.95rem;font-family:inherit;}
   .form-full{margin-bottom:14px;}
+  .form-label{display:block;font-size:.85rem;font-weight:600;color:var(--dark-text);margin-bottom:6px;}
 
   em.hl{font-style:normal;color:var(--primary-blue);font-weight:700;}
 
@@ -542,16 +543,29 @@
       <p>Tell us about your property and the water event, and our team will follow up immediately to coordinate response.</p>
       <form onsubmit="return false;">
         <div class="form-row">
-          <input type="text" placeholder="Business / Property Name" aria-label="Business or Property Name" required>
-          <input type="text" placeholder="Contact Name" aria-label="Contact Name" required>
+          <div>
+            <label for="business-name" class="form-label">Business / Property Name</label>
+            <input type="text" id="business-name" name="business-name" placeholder="Business / Property Name" required>
+          </div>
+          <div>
+            <label for="contact-name" class="form-label">Contact Name</label>
+            <input type="text" id="contact-name" name="contact-name" placeholder="Contact Name" required>
+          </div>
         </div>
         <div class="form-row">
-          <input type="tel" placeholder="Phone Number" aria-label="Phone Number" required>
-          <input type="email" placeholder="Email Address" aria-label="Email Address" required>
+          <div>
+            <label for="phone-number" class="form-label">Phone Number</label>
+            <input type="tel" id="phone-number" name="phone-number" placeholder="Phone Number" required>
+          </div>
+          <div>
+            <label for="email-address" class="form-label">Email Address</label>
+            <input type="email" id="email-address" name="email-address" placeholder="Email Address" required>
+          </div>
         </div>
         <div class="form-full">
-          <select required aria-label="Property Type">
-            <option value="" disabled selected>Property Type</option>
+          <label for="property-type" class="form-label">Property Type</label>
+          <select id="property-type" name="property-type" required>
+            <option value="" disabled selected>Select property type</option>
             <option>Office Building</option>
             <option>Retail Store</option>
             <option>Restaurant</option>
@@ -562,7 +576,8 @@
           </select>
         </div>
         <div class="form-full">
-          <textarea rows="4" placeholder="Briefly describe the water damage event" aria-label="Description of water damage event"></textarea>
+          <label for="damage-description" class="form-label">Describe the Water Damage Event</label>
+          <textarea id="damage-description" name="damage-description" rows="4" placeholder="Briefly describe the water damage event"></textarea>
         </div>
         <button class="btn btn-primary" type="submit" style="border:none;cursor:pointer;">Request Emergency Service</button>
       </form>
