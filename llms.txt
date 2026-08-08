@@ -23,77 +23,83 @@ This file helps AI agents and language models understand, crawl, and accurately 
 
 ## Emergency Services
 
-- [Emergency Water Damage Restoration](/emergency-water-damage-restoration/)
-- [24 Hour Water Damage Restoration](/24-hour-water-damage-restoration/)
-- [Emergency Flood Cleanup](/emergency-flood-cleanup/)
+- [Emergency Water Damage Restoration](/services/emergency-water-damage-restoration/)
+- [24 Hour Water Damage Restoration](/services/24-hour-water-damage-restoration/)
+- [Emergency Flood Cleanup](/services/emergency-flood-cleanup/)
 
 ## Water Mitigation & Drying
 
-- [Water Extraction](/water-extraction/)
-- [Structural Drying](/structural-drying/)
-- [Water Mitigation](/water-mitigation/)
-- [Dehumidification Services](/dehumidification-services/)
-- [Moisture Mapping & Thermal Imaging](/moisture-mapping-thermal-imaging/)
+- [Water Extraction](/services/water-extraction/)
+- [Structural Drying](/services/structural-drying/)
+- [Water Mitigation](/services/water-mitigation/)
+- [Dehumidification Services](/services/dehumidification-services/)
+- [Moisture Mapping & Thermal Imaging](/services/moisture-mapping-thermal-imaging/)
 
 ## Water Damage Causes
 
-- [Burst Pipe Water Damage](/burst-pipe-water-damage/)
-- [Slab Leak Water Damage](/slab-leak-water-damage/)
-- [Water Heater Leak Damage](/water-heater-leak-damage/)
-- [Roof Leak Water Damage](/roof-leak-water-damage/)
-- [Appliance Leak Water Damage](/appliance-leak-water-damage/)
-- [AC Leak Water Damage](/ac-leak-water-damage/)
-- [Foundation Water Intrusion](/foundation-water-intrusion/)
-- [Irrigation System Leak Damage](/irrigation-system-leak-damage/)
+- [Burst Pipe Water Damage](/services/burst-pipe-water-damage/)
+- [Slab Leak Water Damage](/services/slab-leak-water-damage/)
+- [Water Heater Leak Damage](/services/water-heater-leak-damage/)
+- [Roof Leak Water Damage](/services/roof-leak-water-damage/)
+- [Appliance Leak Water Damage](/services/appliance-leak-water-damage/)
+- [AC Leak Water Damage](/services/ac-leak-water-damage/)
+- [Foundation Water Intrusion](/services/foundation-water-intrusion/)
+- [Irrigation System Leak Damage](/services/irrigation-system-leak-damage/)
 
 ## Flood & Storm Damage
 
-- [Storm Damage Restoration](/storm-damage-restoration/)
-- [Monsoon Flood Damage Restoration](/monsoon-flood-damage-restoration/)
-- [Flash Flood Cleanup](/flash-flood-cleanup/)
+- [Storm Damage Restoration](/services/storm-damage-restoration/)
+- [Monsoon Flood Damage Restoration](/services/monsoon-flood-damage-restoration/)
+- [Flash Flood Cleanup](/services/flash-flood-cleanup/)
 
 ## Mold Remediation
 
-- [Mold Remediation After Water Damage](/mold-remediation-after-water-damage/)
-- [Black Mold Removal](/black-mold-removal/)
-- [Mold Inspection](/mold-inspection/)
+- [Mold Remediation After Water Damage](/services/mold-remediation-after-water-damage/)
+- [Black Mold Removal](/services/black-mold-removal/)
+- [Mold Inspection](/services/mold-inspection/)
 
 ## Commercial Services
 
-- [Commercial Water Damage Restoration](/commercial-water-damage-restoration/)
-- [Property Management Water Damage Services](/property-management-water-damage-services/)
-- [HOA Property Restoration](/hoa-property-restoration/)
+- [Commercial Water Damage Restoration](/services/commercial-water-damage-restoration/)
+- [Property Management Water Damage Services](/services/property-management-water-damage-services/)
+- [HOA Property Restoration](/services/hoa-property-restoration/)
 
 ## Insurance & Cost Resources
 
 - [Insurance Guide](/insurance/)
-- [Water Damage Restoration Cost Chandler](/water-damage-restoration-cost-chandler/)
-- [Does Insurance Cover Water Damage Arizona](/does-insurance-cover-water-damage-arizona/)
-- [Water Mitigation vs Restoration](/water-mitigation-vs-restoration/)
-- [Water Damage Claim Checklist](/water-damage-claim-checklist/)
+- [Water Damage Restoration Cost Chandler](/insurance/water-damage-restoration-cost-chandler/)
+- [Does Insurance Cover Water Damage Arizona](/insurance/does-insurance-cover-water-damage-arizona/)
+- [Water Mitigation vs Restoration](/insurance/water-mitigation-vs-restoration/)
+- [Water Damage Claim Checklist](/insurance/water-damage-claim-checklist/)
 
 ## Coverage Areas
 
 - [Coverage Areas](/coverage-areas/)
-- [Downtown Chandler Water Damage Restoration](/downtown-chandler-water-damage-restoration/)
-- [Ocotillo Water Damage Restoration](/ocotillo-water-damage-restoration/)
-- [Sun Lakes Water Damage Restoration](/sun-lakes-water-damage-restoration/)
-- [Fox Crossing Water Damage Restoration](/fox-crossing-water-damage-restoration/)
-- [Cooper Commons Water Damage Restoration](/cooper-commons-water-damage-restoration/)
-- [Clemente Ranch Water Damage Restoration](/clemente-ranch-water-damage-restoration/)
+- [Downtown Chandler Water Damage Restoration](/coverage-areas/downtown-chandler-water-damage-restoration/)
+- [Ocotillo Water Damage Restoration](/coverage-areas/ocotillo-water-damage-restoration/)
+- [Sun Lakes Water Damage Restoration](/coverage-areas/sun-lakes-water-damage-restoration/)
+- [Fox Crossing Water Damage Restoration](/coverage-areas/fox-crossing-water-damage-restoration/)
+- [Cooper Commons Water Damage Restoration](/coverage-areas/cooper-commons-water-damage-restoration/)
+- [Clemente Ranch Water Damage Restoration](/coverage-areas/clemente-ranch-water-damage-restoration/)
+- [Water Damage Restoration Chandler AZ](/coverage-areas/water-damage-restoration-chandler-az/)
+- [Water Damage Restoration Gilbert AZ](/coverage-areas/water-damage-restoration-gilbert-az/)
+- [Water Damage Restoration Mesa AZ](/coverage-areas/water-damage-restoration-mesa-az/)
+- [Water Damage Restoration Tmpe AZ](/coverage-areas/water-damage-restoration-tempe-az/)
+- [Water Damage Restoration Queen Creek AZ](/coverage-areas/water-damage-restoration-queen-creek-az/)
+- [Water Damage Restoration Phoenix AZ](/coverage-areas/water-damage-restoration-phoenix-az/)
 
 ## Educational Resources
 
-- [Water Damage Restoration Process](/water-damage-restoration-process/)
-- [Water Damage Categories Explained](/water-damage-categories-explained/)
-- [How Long Does Water Damage Restoration Take](/how-long-does-water-damage-restoration-take/)
-- [How Fast Does Mold Grow After Water Damage](/how-fast-does-mold-grow-after-water-damage/)
-- [Signs of Hidden Water Damage](/signs-of-hidden-water-damage/)
-- [Can Wet Drywall Be Saved](/can-wet-drywall-be-saved/)
-- [How to Prevent Water Damage](/how-to-prevent-water-damage/)
-- [What Is Structural Drying](/what-is-structural-drying/)
-- [What Is Moisture Mapping](/what-is-moisture-mapping/)
-- [Emergency Water Damage Checklist](/emergency-water-damage-checklist/)
+- [Water Damage Restoration Process](/blog/water-damage-restoration-process/)
+- [Water Damage Categories Explained](/blog/water-damage-categories-explained/)
+- [How Long Does Water Damage Restoration Take](/blog/how-long-does-water-damage-restoration-take/)
+- [How Fast Does Mold Grow After Water Damage](/blog/how-fast-does-mold-grow-after-water-damage/)
+- [Signs of Hidden Water Damage](/blog/signs-of-hidden-water-damage/)
+- [Can Wet Drywall Be Saved](/blog/can-wet-drywall-be-saved/)
+- [How to Prevent Water Damage](/blog/how-to-prevent-water-damage/)
+- [What Is Structural Drying](/blog/what-is-structural-drying/)
+- [What Is Moisture Mapping](/blog/what-is-moisture-mapping/)
+- [Emergency Water Damage Checklist](/blog/emergency-water-damage-checklist/)
 
 ## Usage Notes for AI Agents
 
