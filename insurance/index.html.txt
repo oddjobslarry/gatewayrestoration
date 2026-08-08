@@ -1,0 +1,906 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Water Damage Insurance & Cost Guide Chandler AZ | Claims Help & Restoration Costs</title>
+<meta name="description" content="Learn what Arizona homeowners insurance may cover after water damage, how claims work, typical restoration costs, and what documentation is needed. Educational resource from Gateway Restoration.">
+<link rel="canonical" href="https://gatewayrestoration.pages.dev/insurance/">
+<meta property="og:title" content="Water Damage Insurance & Cost Guide Chandler AZ | Claims Help & Restoration Costs">
+<meta property="og:description" content="Learn what Arizona homeowners insurance may cover after water damage, how claims work, typical restoration costs, and what documentation is needed.">
+<meta property="og:image" content="https://gatewayrestoration.pages.dev/images/water-damage-insurance-cost-guide-gateway-restoration-chandler-az.webp">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://gatewayrestoration.pages.dev/insurance/">
+<link rel="icon" href="https://gatewayrestoration.pages.dev/images/water-damage-chandler-az-by-gateway-restoration-logo.webp">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Gateway Restoration",
+  "image": "https://gatewayrestoration.pages.dev/images/water-damage-chandler-az-by-gateway-restoration-logo.webp",
+  "telephone": "+14805918997",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "17817 S McQueen Rd",
+    "addressLocality": "Chandler",
+    "addressRegion": "AZ",
+    "postalCode": "85286",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 33.285804,
+    "longitude": -111.823522
+  },
+  "url": "https://gatewayrestoration.pages.dev/insurance/",
+  "priceRange": "$$",
+  "openingHours": "Mo-Su 00:00-23:59"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://gatewayrestoration.pages.dev/" },
+    { "@type": "ListItem", "position": 2, "name": "Insurance & Cost", "item": "https://gatewayrestoration.pages.dev/insurance/" }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Water Damage Insurance & Cost Guide for Chandler, AZ Homeowners",
+  "description": "Educational guide covering Arizona homeowners insurance coverage for water damage, the claims process, documentation, and typical restoration costs in Chandler, AZ.",
+  "image": "https://gatewayrestoration.pages.dev/images/water-damage-insurance-cost-guide-gateway-restoration-chandler-az.webp",
+  "author": { "@type": "Organization", "name": "Gateway Restoration" },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Gateway Restoration",
+    "logo": { "@type": "ImageObject", "url": "https://gatewayrestoration.pages.dev/images/water-damage-chandler-az-by-gateway-restoration-logo.webp" }
+  },
+  "mainEntityOfPage": "https://gatewayrestoration.pages.dev/insurance/"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {"@type":"Question","name":"Does homeowners insurance cover water damage in Arizona?","acceptedAnswer":{"@type":"Answer","text":"Most Arizona homeowners policies cover sudden and accidental water damage, such as a burst pipe, water heater failure, or storm-related intrusion. Damage from long-term leaks, deferred maintenance, or neglect is typically excluded. Coverage always depends on the specific policy language and endorsements, so review your declarations page or ask your agent directly."}},
+    {"@type":"Question","name":"Is flood damage covered by homeowners insurance?","acceptedAnswer":{"@type":"Answer","text":"Generally, no. Standard homeowners policies typically exclude flood damage caused by water entering from outside the home, such as surface water or flash flooding. Flood losses usually require a separate flood insurance policy, often through the National Flood Insurance Program or a private flood carrier."}},
+    {"@type":"Question","name":"How much does water damage restoration cost in Chandler?","acceptedAnswer":{"@type":"Answer","text":"Costs typically range from $1,200 to $3,500 for Category 1 (clean water) losses, $2,500 to $6,500 for Category 2 (gray water), and $4,500 to $12,000 or more for Category 3 (contaminated water). Mold remediation, if needed, typically adds $1,500 to $6,000 or more. Actual pricing depends on square footage, materials, and how long water sat before treatment."}},
+    {"@type":"Question","name":"What documentation should I keep?","acceptedAnswer":{"@type":"Answer","text":"Keep photos and video of the damage before cleanup, moisture readings, drying logs, equipment records, daily progress reports, and restoration invoices. This documentation supports your claim and gives your adjuster objective evidence of the loss and the mitigation performed."}},
+    {"@type":"Question","name":"Should I wait for an adjuster before drying my property?","acceptedAnswer":{"@type":"Answer","text":"No. Most policies require homeowners to take reasonable steps to prevent further damage, which means mitigation should begin promptly. Document the damage thoroughly with photos and video first, then begin emergency mitigation. Waiting days for an adjuster often allows secondary damage like mold to develop."}},
+    {"@type":"Question","name":"Will insurance pay for mold remediation?","acceptedAnswer":{"@type":"Answer","text":"It depends on the policy and the cause of the mold. Mold that results directly from a sudden, covered water event is often included or covered up to a sub-limit. Mold from long-term moisture or neglect is frequently excluded. Many Arizona policies carry specific mold sub-limits, so review your policy language carefully."}},
+    {"@type":"Question","name":"What if the leak happened slowly?","acceptedAnswer":{"@type":"Answer","text":"Gradual or long-term leaks are one of the most common reasons claims are denied or reduced. Insurers generally expect homeowners to identify and address slow leaks before they cause significant damage. If a leak is discovered, documenting when it was found and addressing it promptly can help support the claim."}},
+    {"@type":"Question","name":"What is Category 3 water?","acceptedAnswer":{"@type":"Answer","text":"Category 3 water is grossly contaminated water, such as sewage backups, flood water, or water that has sat long enough to grow bacteria. It poses a health risk and requires full protective protocols, aggressive removal of affected porous materials, and thorough sanitization."}},
+    {"@type":"Question","name":"How long does drying take?","acceptedAnswer":{"@type":"Answer","text":"Most residential structural drying takes three to seven days with commercial air movers and dehumidifiers running continuously. Larger losses, Category 3 water, or dense materials like tile and concrete can extend that timeline. Daily moisture readings determine when a structure is confirmed dry."}},
+    {"@type":"Question","name":"Do you work with insurance companies?","acceptedAnswer":{"@type":"Answer","text":"Yes. We provide the documentation, moisture logs, and photo records that insurance carriers commonly request, and we communicate with adjusters about the mitigation and restoration work performed. We do not adjust claims or make coverage decisions on behalf of any insurer."}},
+    {"@type":"Question","name":"Are you an insurance company?","acceptedAnswer":{"@type":"Answer","text":"No. Gateway Restoration is a restoration and mitigation company. We do not sell insurance policies, evaluate coverage, or adjust claims. Coverage decisions are made exclusively by your insurance carrier."}},
+    {"@type":"Question","name":"Can you guarantee claim approval?","acceptedAnswer":{"@type":"Answer","text":"No restoration company can guarantee claim approval, and any company that promises this should raise concern. Approval depends on your policy language, the cause of loss, and your carrier's review. We can only provide thorough documentation to support your claim."}},
+    {"@type":"Question","name":"What if my claim is denied?","acceptedAnswer":{"@type":"Answer","text":"If a claim is denied or a portion is disputed, you can request a written explanation from your carrier, ask questions about the specific policy language cited, and consider requesting a re-inspection. For questions about your legal rights, consult a licensed attorney or contact the Arizona Department of Insurance and Financial Institutions."}},
+    {"@type":"Question","name":"What should I do immediately after water damage?","acceptedAnswer":{"@type":"Answer","text":"Stop the source of water if it is safe to do so, shut off power to affected outlets if water is nearby, photograph and video the damage, and contact a restoration company to begin mitigation. Notify your insurance carrier as soon as reasonably possible."}},
+    {"@type":"Question","name":"How fast can mold grow in Chandler?","acceptedAnswer":{"@type":"Answer","text":"In Arizona's warm indoor environments, mold spores can begin colonizing damp materials within 24 to 48 hours of water exposure. This is why prompt extraction and structural drying are important rather than waiting to see if an area dries on its own."}}
+  ]
+}
+</script>
+
+<style>
+  :root{
+    --navy:#0e3a5c;
+    --navy-dark:#0a2a43;
+    --blue:#1a5f8f;
+    --alert:#c8380a;
+    --alert-dark:#a12d07;
+    --sand:#f6f7f9;
+    --line:#e2e6eb;
+    --ink:#1c2733;
+    --ink-soft:#4b5a68;
+    --white:#ffffff;
+    --good:#1c7c4c;
+    --bad:#b02a1f;
+    --radius:10px;
+    --shadow:0 2px 10px rgba(14,58,92,0.08);
+    --shadow-lg:0 8px 30px rgba(14,58,92,0.14);
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    color:var(--ink);
+    background:var(--white);
+    line-height:1.65;
+  }
+  img{max-width:100%;display:block;}
+  a{color:inherit;}
+  .wrap{max-width:1160px;margin:0 auto;padding:0 24px;}
+  h1,h2,h3{line-height:1.2;font-weight:800;color:var(--navy-dark);}
+  h1{font-size:clamp(1.9rem,4vw,2.7rem);}
+  h2{font-size:clamp(1.5rem,2.6vw,2rem);margin-bottom:.5rem;}
+  h3{font-size:1.15rem;margin-bottom:.4rem;}
+  p{margin:0 0 1rem;}
+  .eyebrow{
+    text-transform:uppercase;letter-spacing:.08em;font-weight:700;
+    font-size:.78rem;color:var(--alert);margin-bottom:.5rem;display:block;
+  }
+  .btn{
+    display:inline-flex;align-items:center;gap:8px;
+    padding:14px 24px;border-radius:8px;font-weight:700;
+    text-decoration:none;font-size:1rem;transition:transform .15s ease, box-shadow .15s ease;
+  }
+  .btn-primary{background:var(--alert);color:#fff;box-shadow:0 4px 14px rgba(200,56,10,.35);}
+  .btn-primary:hover{transform:translateY(-1px);box-shadow:0 6px 20px rgba(200,56,10,.45);}
+  .btn-outline{background:#fff;color:var(--navy);border:2px solid var(--navy);}
+  .btn-outline:hover{background:var(--navy);color:#fff;}
+
+  /* top alert bar */
+  .alertbar{background:var(--alert-dark);color:#fff;text-align:center;font-size:.9rem;padding:9px 16px;}
+  .alertbar a{color:#fff;text-decoration:underline;font-weight:700;}
+
+  /* header */
+  header.site{background:#fff;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:50;}
+  .header-inner{display:flex;align-items:center;justify-content:space-between;padding:14px 24px;max-width:1160px;margin:0 auto;gap:16px;}
+  .brand{display:flex;align-items:center;gap:10px;text-decoration:none;font-weight:800;color:var(--navy-dark);font-size:1.15rem;}
+  .brand img{height:42px;width:auto;border-radius:6px;}
+  nav.main{display:flex;gap:22px;align-items:center;}
+  nav.main a{text-decoration:none;font-weight:600;font-size:.94rem;color:var(--ink-soft);}
+  nav.main a.active{color:var(--alert);}
+  nav.main a:hover{color:var(--navy);}
+  .header-cta{display:flex;align-items:center;gap:10px;background:var(--navy);color:#fff;padding:10px 18px;border-radius:8px;text-decoration:none;font-weight:700;white-space:nowrap;}
+  .header-cta:hover{background:var(--navy-dark);}
+  .mobile-hide{display:flex;}
+
+  /* breadcrumb */
+  .crumb{background:var(--sand);font-size:.85rem;padding:10px 0;color:var(--ink-soft);}
+  .crumb a{text-decoration:none;color:var(--blue);font-weight:600;}
+
+  /* hero */
+  .hero{background:linear-gradient(135deg,var(--navy) 0%,var(--navy-dark) 100%);color:#fff;padding:56px 0 46px;}
+  .hero .wrap{display:grid;grid-template-columns:1.15fr .85fr;gap:40px;align-items:center;}
+  .hero h1{color:#fff;margin-bottom:14px;}
+  .hero p.lead{color:#dfe9f2;font-size:1.08rem;max-width:56ch;}
+  .disclaimer-box{
+    background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.25);
+    border-radius:var(--radius);padding:18px 20px;margin:20px 0;
+  }
+  .disclaimer-box p{margin:0 0 8px;color:#eef4f9;font-size:.95rem;}
+  .disclaimer-box p:last-child{margin-bottom:0;}
+  .disclaimer-box strong{color:#fff;}
+  .hero-actions{display:flex;gap:14px;flex-wrap:wrap;margin-top:22px;}
+  .badges{display:flex;flex-wrap:wrap;gap:10px 18px;margin-top:22px;font-size:.85rem;color:#cfe0ee;}
+  .badges span{display:flex;align-items:center;gap:6px;}
+  .hero-media{border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow-lg);}
+  .hero-media img{width:100%;height:100%;object-fit:cover;}
+
+  section{padding:56px 0;}
+  section.alt{background:var(--sand);}
+  .section-head{max-width:70ch;margin-bottom:32px;}
+  .section-head.center{margin-left:auto;margin-right:auto;text-align:center;}
+
+  /* comparison */
+  .compare-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px;}
+  .compare-card{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:26px;box-shadow:var(--shadow);}
+  .compare-card.gateway{border-top:4px solid var(--alert);}
+  .compare-card.insurer{border-top:4px solid var(--navy);}
+  .compare-card ul{margin:14px 0 0;padding-left:20px;}
+  .compare-card li{margin-bottom:8px;}
+
+  /* covered / not covered */
+  .cover-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:10px;}
+  .cover-card{border-radius:var(--radius);padding:24px;}
+  .cover-card.good{background:#eef8f1;border:1px solid #cfe9d8;}
+  .cover-card.bad{background:#fbecea;border:1px solid #f0d0cb;}
+  .cover-card h3{display:flex;align-items:center;gap:8px;}
+  .cover-card h3.good{color:var(--good);}
+  .cover-card h3.bad{color:var(--bad);}
+  .cover-card ul{padding-left:20px;margin:10px 0 0;}
+  .cover-card li{margin-bottom:6px;}
+
+  /* flood vs water */
+  .two-col{display:grid;grid-template-columns:1fr 1fr;gap:24px;}
+  .info-card{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:24px;box-shadow:var(--shadow);}
+  .info-card ul{padding-left:20px;margin:10px 0 0;}
+
+  /* steps */
+  .steps{counter-reset:step;display:grid;gap:18px;}
+  .step{
+    display:grid;grid-template-columns:56px 1fr;gap:18px;align-items:start;
+    background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:20px;box-shadow:var(--shadow);
+  }
+  .step-num{
+    width:56px;height:56px;border-radius:50%;background:var(--navy);color:#fff;
+    display:flex;align-items:center;justify-content:center;font-weight:800;font-size:1.2rem;
+  }
+  .step h3{margin-bottom:4px;}
+
+  /* doc grid */
+  .doc-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:10px;}
+  .doc-item{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:20px;box-shadow:var(--shadow);}
+  .doc-item h3{font-size:1rem;margin-bottom:6px;color:var(--navy);}
+
+  /* categories */
+  .cat-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-top:10px;}
+  .cat-card{border-radius:var(--radius);padding:22px;border:1px solid var(--line);background:#fff;box-shadow:var(--shadow);}
+  .cat-card .cat-tag{display:inline-block;font-weight:800;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;padding:4px 10px;border-radius:20px;margin-bottom:10px;}
+  .cat1 .cat-tag{background:#e6f3ec;color:var(--good);}
+  .cat2 .cat-tag{background:#fdf1de;color:#a5670b;}
+  .cat3 .cat-tag{background:#fbe7e5;color:var(--bad);}
+
+  /* cost table */
+  table.cost{width:100%;border-collapse:collapse;background:#fff;border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow);}
+  table.cost th, table.cost td{padding:14px 18px;text-align:left;border-bottom:1px solid var(--line);}
+  table.cost th{background:var(--navy);color:#fff;font-size:.9rem;text-transform:uppercase;letter-spacing:.04em;}
+  table.cost tr:last-child td{border-bottom:none;}
+  table.cost tr:nth-child(even) td{background:var(--sand);}
+  .cost-note{font-size:.9rem;color:var(--ink-soft);margin-top:12px;}
+
+  .factor-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-top:20px;}
+  .factor{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:16px;text-align:center;font-weight:600;font-size:.92rem;color:var(--navy-dark);box-shadow:var(--shadow);}
+
+  /* timeline */
+  .timeline{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;margin-top:10px;}
+  .tl-item{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:20px;text-align:center;box-shadow:var(--shadow);}
+  .tl-item .tl-val{font-weight:800;color:var(--alert);font-size:1.05rem;margin-bottom:4px;}
+
+  /* qa accordion-style block */
+  .qa-block{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:20px 24px;margin-bottom:14px;box-shadow:var(--shadow);}
+  .qa-block h3{color:var(--navy);}
+
+  /* related resources */
+  .resource-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:18px;margin-top:10px;}
+  .resource-card{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:20px;box-shadow:var(--shadow);text-decoration:none;display:block;}
+  .resource-card h3{color:var(--blue);font-size:1.02rem;margin-bottom:6px;}
+  .resource-card p{margin:0;color:var(--ink-soft);font-size:.92rem;}
+  .resource-card:hover h3{text-decoration:underline;}
+
+  /* why choose */
+  .why-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-top:10px;}
+  .why-item{padding:20px;}
+  .why-item h3{color:var(--navy);}
+
+  /* faq */
+  .faq-item{border-bottom:1px solid var(--line);padding:18px 0;}
+  .faq-item h3{color:var(--navy-dark);font-size:1.05rem;}
+  .faq-item p{color:var(--ink-soft);margin:0;}
+
+  /* map/find us */
+  .map-embed{border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow);border:1px solid var(--line);}
+  .map-embed iframe{width:100%;height:340px;border:0;display:block;}
+
+  /* final CTA */
+  .cta-final{background:linear-gradient(135deg,var(--alert) 0%,var(--alert-dark) 100%);color:#fff;text-align:center;padding:56px 0;}
+  .cta-final h2{color:#fff;}
+  .cta-final p{color:#fde6de;max-width:60ch;margin:0 auto 22px;}
+  .cta-final .btn-outline{background:#fff;color:var(--alert);border-color:#fff;}
+  .cta-final .btn-outline:hover{background:transparent;color:#fff;}
+
+  footer.site{background:var(--navy-dark);color:#c9d8e6;padding:48px 0 24px;font-size:.92rem;}
+  .footer-grid{display:grid;grid-template-columns:1.4fr 1fr 1fr 1fr;gap:30px;}
+  .footer-grid h4{color:#fff;font-size:.95rem;margin-bottom:12px;}
+  .footer-grid ul{list-style:none;padding:0;margin:0;}
+  .footer-grid li{margin-bottom:8px;}
+  .footer-grid a{text-decoration:none;color:#c9d8e6;}
+  .footer-grid a:hover{color:#fff;}
+  .footer-brand{display:flex;align-items:center;gap:10px;color:#fff;font-weight:800;margin-bottom:10px;font-size:1.05rem;}
+  .footer-brand img{height:36px;border-radius:6px;}
+  .footer-bottom{border-top:1px solid rgba(255,255,255,.12);margin-top:34px;padding-top:20px;text-align:center;color:#93a7ba;font-size:.82rem;}
+
+  @media (max-width:960px){
+    .hero .wrap{grid-template-columns:1fr;}
+    .compare-grid,.cover-grid,.two-col,.doc-grid,.cat-grid,.timeline,.resource-grid,.why-grid,.footer-grid,.factor-grid{grid-template-columns:1fr 1fr;}
+    nav.main{display:none;}
+  }
+  @media (max-width:640px){
+    .compare-grid,.cover-grid,.two-col,.doc-grid,.cat-grid,.timeline,.resource-grid,.why-grid,.footer-grid,.factor-grid{grid-template-columns:1fr;}
+    .hero-actions,.header-cta span{white-space:normal;}
+  }
+</style>
+</head>
+<body>
+
+<div class="alertbar">
+  ⚠ Water damage worsens by the hour — <a href="tel:14805918997">Call (480) 591-8997</a> for 24/7 emergency dispatch in Chandler, AZ
+</div>
+
+<header class="site">
+  <div class="header-inner">
+    <a class="brand" href="https://gatewayrestoration.pages.dev/">
+      <img src="https://gatewayrestoration.pages.dev/images/water-damage-chandler-az-by-gateway-restoration-logo.webp" alt="Gateway Restoration logo">
+      Gateway Restoration
+    </a>
+    <nav class="main mobile-hide">
+      <a href="https://gatewayrestoration.pages.dev/">Home</a>
+      <a href="https://gatewayrestoration.pages.dev/services/">Services</a>
+      <a href="https://gatewayrestoration.pages.dev/coverage-areas/">Coverage Areas</a>
+      <a href="/insurance/" class="active">Insurance &amp; Cost</a>
+      <a href="https://gatewayrestoration.pages.dev/about">About Us</a>
+      <a href="https://gatewayrestoration.pages.dev/blog/">Blog</a>
+      <a href="https://gatewayrestoration.pages.dev/contact">Contact</a>
+    </nav>
+    <a class="header-cta" href="tel:14805918997">📞 (480) 591-8997</a>
+  </div>
+</header>
+
+<div class="crumb">
+  <div class="wrap"><a href="https://gatewayrestoration.pages.dev/">Home</a> / Insurance &amp; Cost</div>
+</div>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="wrap">
+    <div>
+      <span class="eyebrow" style="color:#ffb199;">Educational Resource</span>
+      <h1>Water Damage Insurance &amp; Cost Guide for Chandler, AZ Homeowners</h1>
+      <p class="lead">Understand what Arizona homeowners insurance may cover after water damage, how the claims process works, what documentation carriers commonly request, and realistic restoration cost ranges for Chandler-area properties.</p>
+
+      <div class="disclaimer-box">
+        <p><strong>Important:</strong> Gateway Restoration is not an insurance company. We do not sell insurance policies, adjust claims, or provide legal advice.</p>
+        <p>We help homeowners, business owners, landlords, property managers, and HOA communities properly document water damage and complete mitigation work — the moisture reports, photos, and records that insurance carriers commonly request during a claim.</p>
+      </div>
+
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="tel:14805918997">📞 Call (480) 591-8997</a>
+        <a class="btn btn-outline" style="background:transparent;color:#fff;border-color:#fff;" href="https://gatewayrestoration.pages.dev/contact">Request Free Inspection</a>
+      </div>
+
+      <div class="badges">
+        <span>✅ 24/7 Emergency Response</span>
+        <span>✅ Insurance-Friendly Documentation</span>
+        <span>✅ Locally Owned in Chandler</span>
+        <span>✅ IICRC-Guided Drying</span>
+      </div>
+    </div>
+    <div class="hero-media">
+      <img src="/images/water-damage-insurance-cost-guide-gateway-restoration-chandler-az.webp" alt="Water damage insurance and cost guide for Chandler AZ homeowners by Gateway Restoration">
+    </div>
+  </div>
+</section>
+
+<!-- INSURANCE VS RESTORATION -->
+<section>
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">Understanding The Roles</span>
+      <h2>Insurance vs. Restoration: Understanding the Difference</h2>
+      <p>One of the most common points of confusion after water damage is who does what. Insurance carriers and restoration companies play completely different roles, and understanding that difference helps you know what to expect from each.</p>
+    </div>
+    <div class="compare-grid">
+      <div class="compare-card insurer">
+        <h3>Your Insurance Company</h3>
+        <p>Your carrier is responsible for the financial and contractual side of your claim.</p>
+        <ul>
+          <li>Evaluates what your policy covers</li>
+          <li>Reviews policy language, endorsements, and exclusions</li>
+          <li>Assigns an adjuster to inspect the loss</li>
+          <li>Approves, denies, or partially approves portions of a claim</li>
+          <li>Issues payment based on your coverage and deductible</li>
+        </ul>
+      </div>
+      <div class="compare-card gateway">
+        <h3>Gateway Restoration</h3>
+        <p>We are responsible for the physical mitigation and restoration of your property.</p>
+        <ul>
+          <li>Removes standing water from the property</li>
+          <li>Dries structural materials using commercial equipment</li>
+          <li>Documents moisture levels and drying progress</li>
+          <li>Prevents secondary damage such as mold growth</li>
+          <li>Provides restoration and rebuild services</li>
+        </ul>
+      </div>
+    </div>
+    <p style="margin-top:24px;font-weight:600;color:var(--navy-dark);">Gateway Restoration does not evaluate your policy, does not decide what is covered, and does not have authority to approve or deny any part of your claim. Those decisions belong exclusively to your insurance carrier.</p>
+  </div>
+</section>
+
+<!-- DOES INSURANCE COVER -->
+<section class="alt">
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">Coverage Basics</span>
+      <h2>Does Homeowners Insurance Cover Water Damage in Arizona?</h2>
+      <p>Most Arizona homeowners policies are written to cover water damage that is <strong>sudden and accidental</strong> — meaning it happened without warning and wasn't the result of a problem the homeowner knew about and failed to address. Whether a specific loss is covered always depends on your individual policy, its endorsements, and any exclusions your carrier has applied.</p>
+    </div>
+    <div class="cover-grid">
+      <div class="cover-card good">
+        <h3 class="good">✔ Often Covered</h3>
+        <ul>
+          <li>Burst pipes</li>
+          <li>Sudden plumbing failures</li>
+          <li>Water heater failures</li>
+          <li>Appliance supply line failures</li>
+          <li>Accidental overflows (tubs, sinks, washing machines)</li>
+          <li>Storm-created roof openings</li>
+          <li>Other sudden and accidental water events</li>
+        </ul>
+      </div>
+      <div class="cover-card bad">
+        <h3 class="bad">✘ Often Not Covered</h3>
+        <ul>
+          <li>Long-term or gradual leaks</li>
+          <li>Damage tied to deferred maintenance</li>
+          <li>Neglect of a known plumbing issue</li>
+          <li>General wear and tear</li>
+          <li>Known, unresolved damage from a prior event</li>
+        </ul>
+      </div>
+    </div>
+    <p style="margin-top:22px;">Because coverage varies significantly by carrier, policy form, and endorsement, the only way to know exactly what your policy covers is to read your declarations page and speak directly with your agent or carrier. For general guidance on homeowners insurance in Arizona, the <a href="https://difi.az.gov/" target="_blank" rel="noopener noreferrer" style="color:var(--blue);font-weight:600;">Arizona Department of Insurance and Financial Institutions</a> publishes consumer resources that explain how residential policies typically work.</p>
+  </div>
+</section>
+
+<!-- FLOOD VS WATER -->
+<section>
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">A Critical Distinction</span>
+      <h2>Flood Damage vs. Water Damage: Why the Difference Matters</h2>
+      <p>Homeowners often use "flood" and "water damage" interchangeably, but insurance carriers treat them as two entirely different types of loss — and that difference can determine whether a claim is covered at all.</p>
+    </div>
+    <div class="two-col">
+      <div class="info-card">
+        <h3>Water Damage</h3>
+        <p>Typically originates from inside the home and is often included under a standard homeowners policy when the cause is sudden and accidental.</p>
+        <ul>
+          <li>Burst pipes</li>
+          <li>Appliance failures</li>
+          <li>Plumbing leaks</li>
+          <li>Water heater failures</li>
+        </ul>
+      </div>
+      <div class="info-card">
+        <h3>Flood Damage</h3>
+        <p>Involves water entering from outside the structure and is usually excluded from standard homeowners policies.</p>
+        <ul>
+          <li>Water entering from outside the home</li>
+          <li>Surface water accumulation</li>
+          <li>Ground-level flooding</li>
+          <li>Flash flooding</li>
+        </ul>
+      </div>
+    </div>
+    <p style="margin-top:22px;">Chandler and the broader East Valley experience intense monsoon storms between June and September, which can produce flash flooding near washes and low-lying streets. When water enters a home from outside during a monsoon event, that loss is frequently classified as flood damage rather than water damage — meaning it may not be covered by a standard homeowners policy. Many Arizona property owners in flood-prone areas choose to carry a separate flood insurance policy, often through the National Flood Insurance Program or a private flood carrier, specifically to address this gap in standard coverage.</p>
+  </div>
+</section>
+
+<!-- CLAIM PROCESS -->
+<section class="alt">
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">Step By Step</span>
+      <h2>The Water Damage Insurance Claim Process</h2>
+      <p>While every claim is different, most water damage claims in Chandler follow a similar general sequence from discovery to final completion.</p>
+    </div>
+    <div class="steps">
+      <div class="step"><div class="step-num">1</div><div><h3>Stop the Source</h3><p>Shut off the main water valve or the specific supply line causing the leak, if it's safe to do so. Stopping active water flow is the first priority before anything else.</p></div></div>
+      <div class="step"><div class="step-num">2</div><div><h3>Document the Damage</h3><p>Take photos and video of the affected areas, the water source, and any damaged belongings before cleanup begins. This documentation becomes an important part of your claim record.</p></div></div>
+      <div class="step"><div class="step-num">3</div><div><h3>Contact Your Insurer</h3><p>Notify your insurance carrier to begin the claims process. Your carrier will provide a claim number and explain what information they'll need from you moving forward.</p></div></div>
+      <div class="step"><div class="step-num">4</div><div><h3>Begin Emergency Mitigation</h3><p>A restoration company begins water extraction and emergency mitigation to prevent the damage from worsening. Most policies expect mitigation to start promptly rather than waiting for an adjuster.</p></div></div>
+      <div class="step"><div class="step-num">5</div><div><h3>Moisture Mapping and Drying</h3><p>Structural drying begins using commercial air movers and dehumidifiers, with daily moisture readings logged to track progress and confirm when materials are dry.</p></div></div>
+      <div class="step"><div class="step-num">6</div><div><h3>Adjuster Review</h3><p>Your insurance company's adjuster reviews the loss, often using the documentation and mitigation records provided by the restoration company, to determine coverage.</p></div></div>
+      <div class="step"><div class="step-num">7</div><div><h3>Repairs and Restoration</h3><p>Once drying is confirmed complete and coverage is determined, repair and reconstruction work begins to return the property to its pre-loss condition.</p></div></div>
+      <div class="step"><div class="step-num">8</div><div><h3>Final Completion</h3><p>A final walkthrough confirms all work is complete and the property has been restored, closing out the mitigation and restoration portion of the claim.</p></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- DOCUMENTATION -->
+<section>
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">Why It Matters</span>
+      <h2>What Documentation Helps Support a Water Damage Claim?</h2>
+      <p>Thorough documentation gives your insurance adjuster objective evidence of the loss and the mitigation work performed, which can help a claim move more smoothly and with fewer disputes. Gateway Restoration provides the following documentation as a standard part of every mitigation job.</p>
+    </div>
+    <div class="doc-grid">
+      <div class="doc-item"><h3>Photos</h3><p>Visual record of the damage at each stage of the job, from initial discovery through completion.</p></div>
+      <div class="doc-item"><h3>Videos</h3><p>Video documentation captures the extent of the loss in ways still photos sometimes can't.</p></div>
+      <div class="doc-item"><h3>Moisture Readings</h3><p>Logged measurements showing moisture content in affected materials over time.</p></div>
+      <div class="doc-item"><h3>Thermal Imaging</h3><p>Infrared imaging identifies hidden moisture behind walls and under flooring.</p></div>
+      <div class="doc-item"><h3>Drying Logs</h3><p>Daily records tracking equipment placement, humidity, and drying progress.</p></div>
+      <div class="doc-item"><h3>Equipment Records</h3><p>Documentation of the air movers, dehumidifiers, and extraction equipment used on site.</p></div>
+      <div class="doc-item"><h3>Category Classification</h3><p>Formal classification of the water category, which affects protocols and cost.</p></div>
+      <div class="doc-item"><h3>Daily Progress Reports</h3><p>Ongoing updates that show the job's status from day to day.</p></div>
+      <div class="doc-item"><h3>Before-and-After Documentation</h3><p>Side-by-side records showing the condition of the property at each stage.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- CATEGORIES -->
+<section class="alt">
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">Water Classification</span>
+      <h2>Water Damage Categories and Insurance Considerations</h2>
+      <p>Every water loss is classified by contamination level, and that classification affects both the mitigation protocols required and, in many cases, how a claim is evaluated.</p>
+    </div>
+    <div class="cat-grid">
+      <div class="cat-card cat1">
+        <span class="cat-tag">Category 1</span>
+        <h3>Clean Water</h3>
+        <p>Water from a clean source such as a supply line or appliance, with no contamination risk. This is typically the least complex category to mitigate and document.</p>
+      </div>
+      <div class="cat-card cat2">
+        <span class="cat-tag">Category 2</span>
+        <h3>Gray Water</h3>
+        <p>Water containing some contaminants, such as overflow from a washing machine or dishwasher, that carries a mild health risk if left untreated.</p>
+      </div>
+      <div class="cat-card cat3">
+        <span class="cat-tag">Category 3</span>
+        <h3>Black Water</h3>
+        <p>Grossly contaminated water, including sewage backups, flood water, or water that has sat long enough to grow bacteria. Requires full protective protocols.</p>
+      </div>
+    </div>
+    <p style="margin-top:22px;">Sewage backups and other Category 3 losses often require additional remediation steps beyond standard drying, including removal of affected porous materials and thorough sanitization. Because of the added scope, Category 3 losses are typically documented in greater detail to support the claim, and coverage for sewage backups sometimes requires a specific policy endorsement — another reason to confirm your coverage directly with your carrier.</p>
+  </div>
+</section>
+
+<!-- COST -->
+<section id="cost">
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">Educational Cost Ranges</span>
+      <h2>How Much Does Water Damage Restoration Cost in Chandler, AZ?</h2>
+      <p>The following ranges are provided for general educational purposes. Every property and loss is different, and final costs depend on the specific scope of work.</p>
+    </div>
+    <table class="cost">
+      <thead>
+        <tr><th>Damage Type</th><th>Typical Cost Range</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Category 1 Water (clean water)</td><td>$1,200 – $3,500</td></tr>
+        <tr><td>Category 2 Water (gray water)</td><td>$2,500 – $6,500</td></tr>
+        <tr><td>Category 3 Water (contaminated/black water)</td><td>$4,500 – $12,000+</td></tr>
+        <tr><td>Mold Remediation (additional, if needed)</td><td>$1,500 – $6,000+</td></tr>
+        <tr><td>Commercial Losses</td><td>Custom estimate based on scope</td></tr>
+        <tr><td>Large-Loss Commercial Projects</td><td>Project-specific pricing</td></tr>
+      </tbody>
+    </table>
+    <p class="cost-note">These figures are general ranges only and are not a quote. Call (480) 591-8997 for a free, itemized inspection specific to your property.</p>
+
+    <h3 style="margin-top:34px;">What Drives the Cost of a Water Damage Job</h3>
+    <div class="factor-grid">
+      <div class="factor">Square Footage Affected</div>
+      <div class="factor">Material Type</div>
+      <div class="factor">Water Category</div>
+      <div class="factor">Drying Time Required</div>
+      <div class="factor">Site Accessibility</div>
+      <div class="factor">Contents Affected</div>
+      <div class="factor">Reconstruction Scope</div>
+      <div class="factor">How Long Water Sat</div>
+    </div>
+  </div>
+</section>
+
+<!-- MITIGATION CHARGES -->
+<section class="alt">
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">Common Questions</span>
+      <h2>Understanding Water Mitigation Charges</h2>
+      <p>It's common for homeowners to be surprised by the line items on a mitigation invoice, especially if they've never been through a water loss before. Here's what those charges typically represent.</p>
+    </div>
+    <div class="two-col">
+      <div class="info-card">
+        <h3>What Mitigation Charges Typically Cover</h3>
+        <ul>
+          <li>Emergency response and dispatch</li>
+          <li>Water extraction using truck-mounted or portable equipment</li>
+          <li>Dehumidification to remove moisture from the air</li>
+          <li>Air movers placed according to drying calculations</li>
+          <li>Daily monitoring and moisture readings</li>
+          <li>Moisture mapping and thermal imaging</li>
+          <li>Containment to prevent cross-contamination</li>
+          <li>Photo, video, and written documentation</li>
+        </ul>
+      </div>
+      <div class="info-card">
+        <h3>Why Equipment Costs What It Does</h3>
+        <p>Commercial-grade air movers and industrial dehumidifiers are significantly more powerful — and more expensive to purchase, maintain, and run — than household fans or box store dehumidifiers. They're sized and placed according to IICRC drying calculations specific to the room's dimensions and material types, not guesswork, which is what allows a structure to be confirmed dry in days rather than weeks.</p>
+        <h3 style="margin-top:16px;">Spotting Questionable Billing</h3>
+        <p>Legitimate restoration invoices should clearly itemize equipment used, days of operation, labor performed, and materials involved, and should be backed by daily documentation. Be cautious of vague line items, charges that can't be tied to specific work performed, or pressure to sign broad authorization documents before you understand what you're agreeing to.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- TIMELINE -->
+<section>
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">What To Expect</span>
+      <h2>How Long Does a Water Damage Claim Take?</h2>
+      <p>Timelines vary based on the size of the loss, the water category, and how quickly your carrier processes the claim, but here's a general framework.</p>
+    </div>
+    <div class="timeline">
+      <div class="tl-item"><div class="tl-val">Same Day</div><p>Emergency response and mitigation start</p></div>
+      <div class="tl-item"><div class="tl-val">3–7 Days</div><p>Structural mitigation and drying</p></div>
+      <div class="tl-item"><div class="tl-val">Days to Weeks</div><p>Claim review by your carrier</p></div>
+      <div class="tl-item"><div class="tl-val">Weeks (Varies)</div><p>Repairs and reconstruction, depending on scope</p></div>
+    </div>
+    <p style="margin-top:22px;">Factors that can extend a timeline include the water category, the size of the affected area, material availability for reconstruction, contractor scheduling, and how quickly documentation is submitted and reviewed by the carrier. Category 3 losses and large commercial claims typically take longer than a small Category 1 residential loss.</p>
+  </div>
+</section>
+
+<!-- COMMON QUESTIONS -->
+<section class="alt">
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">Homeowner Concerns</span>
+      <h2>Water Damage Insurance Questions We Hear Most Often</h2>
+    </div>
+    <div class="qa-block">
+      <h3>Will insurance pay for mold?</h3>
+      <p>It depends on the cause. Mold that develops directly from a sudden, covered water event is often included, sometimes subject to a mold sub-limit written into the policy. Mold tied to long-term moisture, deferred maintenance, or a previously known leak is frequently excluded. Reviewing your policy's mold provisions with your agent is the only way to know for certain.</p>
+    </div>
+    <div class="qa-block">
+      <h3>Will insurance replace drywall?</h3>
+      <p>Drywall damaged by a covered water event is commonly included in a claim, since removing and replacing saturated drywall is often necessary to properly dry the wall cavity and prevent mold. The specific scope depends on your adjuster's assessment and your policy terms.</p>
+    </div>
+    <div class="qa-block">
+      <h3>Will insurance cover flooring?</h3>
+      <p>Flooring damaged by a sudden, covered water event is commonly part of a claim, but coverage can vary by material type and whether the flooring was already showing wear prior to the loss. Documentation of the flooring's condition immediately after the event helps support this part of the claim.</p>
+    </div>
+    <div class="qa-block">
+      <h3>Will insurance pay for hotel costs?</h3>
+      <p>Some policies include "loss of use" or "additional living expense" coverage that can reimburse temporary housing costs if a covered loss makes your home uninhabitable during repairs. This coverage, and its limits, varies by policy — check your declarations page or ask your agent.</p>
+    </div>
+    <div class="qa-block">
+      <h3>Will insurance cover slab leaks?</h3>
+      <p>A sudden slab leak is often covered as a sudden and accidental plumbing failure, though some policies apply specific sub-limits or requirements for slab leak claims, and coverage can depend on whether the leak was discovered promptly. This is another area where policy language matters significantly.</p>
+    </div>
+    <div class="qa-block">
+      <h3>What happens if the adjuster and contractor disagree?</h3>
+      <p>Disagreements over scope or pricing between an adjuster and a restoration contractor do happen. In these situations, additional documentation, moisture readings, or a supplemental inspection can sometimes resolve the difference. For disputes that can't be resolved directly, homeowners may want to consult their policy's appraisal clause or seek guidance from a licensed public adjuster or attorney.</p>
+    </div>
+  </div>
+</section>
+
+<!-- AZ RISKS -->
+<section>
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">Local Factors</span>
+      <h2>Arizona Water Damage Risks That Affect Claims</h2>
+      <p>Chandler's climate, soil, and construction create a distinct set of water damage risks that show up repeatedly in local claims.</p>
+    </div>
+    <div class="two-col">
+      <div class="info-card">
+        <ul>
+          <li><strong>Monsoon storms</strong> — intense, fast-moving rain between June and September that overwhelms roofs and drainage</li>
+          <li><strong>Flash flooding</strong> — sudden water intrusion near washes and low-lying streets</li>
+          <li><strong>Caliche soil</strong> — a hard, poorly draining soil layer that traps water near foundations</li>
+          <li><strong>Slab leaks</strong> — common in areas with expansive or shifting soil</li>
+        </ul>
+      </div>
+      <div class="info-card">
+        <ul>
+          <li><strong>AC condensate leaks</strong> — an often-overlooked source of interior water damage, especially in attics</li>
+          <li><strong>Roof leaks</strong> — frequently tied to monsoon-driven wind and rain</li>
+          <li><strong>Water heater failures</strong> — one of the most common sudden water losses in Chandler homes</li>
+          <li><strong>Aging plumbing and foundation movement</strong> — corrosion and soil shifting that contribute to pinhole leaks and slab stress</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- INSURANCE RESOURCES -->
+<section class="alt">
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">Educational Only</span>
+      <h2>Insurance Resources for Arizona Property Owners</h2>
+      <p>This section is educational only and is not legal or insurance advice. A few habits can make future claims easier to navigate.</p>
+    </div>
+    <div class="two-col">
+      <div class="info-card">
+        <h3>Understanding Your Policy</h3>
+        <ul>
+          <li>Read your policy language carefully, including exclusions</li>
+          <li>Understand what endorsements you've added, such as sewage backup or service line coverage</li>
+          <li>Know your deductible and how it applies to water losses</li>
+        </ul>
+      </div>
+      <div class="info-card">
+        <h3>Staying Prepared</h3>
+        <ul>
+          <li>Keep documentation of home maintenance and repairs</li>
+          <li>Review your policy annually as your home and needs change</li>
+          <li>Consider whether a separate flood insurance policy makes sense for your property</li>
+        </ul>
+      </div>
+    </div>
+    <p style="margin-top:20px;">For questions about your specific coverage or legal rights, speak with a licensed insurance agent, a public adjuster, or an attorney. Gateway Restoration is not able to interpret your policy or provide legal guidance.</p>
+  </div>
+</section>
+
+<!-- RELATED RESOURCES -->
+<section>
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">Keep Learning</span>
+      <h2>Related Insurance &amp; Cost Resources</h2>
+    </div>
+    <div class="resource-grid">
+      <a class="resource-card" href="/does-insurance-cover-water-damage-arizona/">
+        <h3>Does Insurance Cover Water Damage in Arizona?</h3>
+        <p>A deeper look at what standard Arizona homeowners policies typically include and exclude.</p>
+      </a>
+      <a class="resource-card" href="/water-damage-restoration-cost-chandler/">
+        <h3>Water Damage Restoration Cost in Chandler</h3>
+        <p>A closer breakdown of pricing by category, scope, and common cost drivers.</p>
+      </a>
+      <a class="resource-card" href="/water-damage-claim-checklist/">
+        <h3>Water Damage Claim Checklist</h3>
+        <p>A step-by-step checklist for documenting a loss from discovery through completion.</p>
+      </a>
+      <a class="resource-card" href="/before-insurance-adjuster-arrives/">
+        <h3>Before the Insurance Adjuster Arrives</h3>
+        <p>What to prepare and document before your adjuster's inspection.</p>
+      </a>
+      <a class="resource-card" href="/water-mitigation-vs-restoration/">
+        <h3>Water Mitigation vs. Restoration</h3>
+        <p>Understanding the difference between emergency mitigation and full restoration work.</p>
+      </a>
+      <a class="resource-card" href="/preferred-vendor-vs-independent-restoration-company/">
+        <h3>Preferred Vendor vs. Independent Restoration Company</h3>
+        <p>What it means to use an insurer's preferred vendor list versus choosing your own contractor.</p>
+      </a>
+      <a class="resource-card" href="/water-damage-restoration-scams/">
+        <h3>Water Damage Restoration Scams to Avoid</h3>
+        <p>Warning signs of questionable billing and storm-chasing contractors after major weather events.</p>
+      </a>
+      <a class="resource-card" href="/assignment-of-benefits-aob-explained/">
+        <h3>Assignment of Benefits (AOB) Explained</h3>
+        <p>What an assignment of benefits agreement is and what to consider before signing one.</p>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- WHY CHOOSE -->
+<section class="alt">
+  <div class="wrap">
+    <div class="section-head center">
+      <span class="eyebrow">The Gateway Difference</span>
+      <h2>Why Property Owners Choose Gateway Restoration</h2>
+    </div>
+    <div class="why-grid">
+      <div class="why-item"><h3>24/7 Response</h3><p>Emergency dispatch across Chandler and the East Valley, day or night.</p></div>
+      <div class="why-item"><h3>Thorough Documentation</h3><p>Photo, video, and written records built the way carriers expect to see them.</p></div>
+      <div class="why-item"><h3>Moisture Mapping</h3><p>Objective moisture readings logged daily, not just our word that a structure is dry.</p></div>
+      <div class="why-item"><h3>Thermal Imaging</h3><p>Hidden water behind walls and under flooring is located, not left to become mold.</p></div>
+      <div class="why-item"><h3>Insurance-Friendly Reporting</h3><p>Documentation formatted for the way adjusters review a claim.</p></div>
+      <div class="why-item"><h3>IICRC-Guided Drying</h3><p>Every job follows IICRC S500 standards for water damage mitigation.</p></div>
+      <div class="why-item"><h3>Clear Communication</h3><p>Straightforward updates throughout mitigation, with no surprise line items.</p></div>
+      <div class="why-item"><h3>Local Chandler Expertise</h3><p>We know the caliche soil, hard water, and monsoon patterns unique to this area.</p></div>
+      <div class="why-item"><h3>Commercial Capabilities</h3><p>Scaled response for offices, HOA common areas, and multi-unit properties.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section>
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">Questions</span>
+      <h2>Frequently Asked Questions</h2>
+    </div>
+
+    <div class="faq-item"><h3>Does homeowners insurance cover water damage in Arizona?</h3><p>Most Arizona homeowners policies cover sudden and accidental water damage, such as a burst pipe, water heater failure, or storm-related intrusion. Damage from long-term leaks, deferred maintenance, or neglect is typically excluded. Coverage always depends on the specific policy language and endorsements, so review your declarations page or ask your agent directly.</p></div>
+
+    <div class="faq-item"><h3>Is flood damage covered by homeowners insurance?</h3><p>Generally, no. Standard homeowners policies typically exclude flood damage caused by water entering from outside the home, such as surface water or flash flooding. Flood losses usually require a separate flood insurance policy, often through the National Flood Insurance Program or a private flood carrier.</p></div>
+
+    <div class="faq-item"><h3>How much does water damage restoration cost in Chandler?</h3><p>Costs typically range from $1,200 to $3,500 for Category 1 losses, $2,500 to $6,500 for Category 2, and $4,500 to $12,000 or more for Category 3. Mold remediation, if needed, typically adds $1,500 to $6,000 or more. Actual pricing depends on square footage, materials, and how long water sat before treatment.</p></div>
+
+    <div class="faq-item"><h3>What documentation should I keep?</h3><p>Keep photos and video of the damage before cleanup, moisture readings, drying logs, equipment records, daily progress reports, and restoration invoices. This documentation supports your claim and gives your adjuster objective evidence of the loss and the mitigation performed.</p></div>
+
+    <div class="faq-item"><h3>Should I wait for an adjuster before drying my property?</h3><p>No. Most policies require homeowners to take reasonable steps to prevent further damage, which means mitigation should begin promptly. Document the damage thoroughly first, then begin emergency mitigation. Waiting days for an adjuster often allows secondary damage like mold to develop.</p></div>
+
+    <div class="faq-item"><h3>Will insurance pay for mold remediation?</h3><p>It depends on the policy and the cause of the mold. Mold that results directly from a sudden, covered water event is often included or covered up to a sub-limit. Mold from long-term moisture or neglect is frequently excluded. Review your policy's mold provisions carefully.</p></div>
+
+    <div class="faq-item"><h3>What if the leak happened slowly?</h3><p>Gradual or long-term leaks are one of the most common reasons claims are denied or reduced. Insurers generally expect homeowners to identify and address slow leaks before they cause significant damage.</p></div>
+
+    <div class="faq-item"><h3>What is Category 3 water?</h3><p>Category 3 water is grossly contaminated water, such as sewage backups, flood water, or water that has sat long enough to grow bacteria. It poses a health risk and requires full protective protocols and thorough sanitization.</p></div>
+
+    <div class="faq-item"><h3>How long does drying take?</h3><p>Most residential structural drying takes three to seven days with commercial equipment running continuously. Larger losses, Category 3 water, or dense materials like tile and concrete can extend that timeline.</p></div>
+
+    <div class="faq-item"><h3>Do you work with insurance companies?</h3><p>Yes. We provide the documentation, moisture logs, and photo records that carriers commonly request, and we communicate with adjusters about the mitigation and restoration work performed. We do not adjust claims or make coverage decisions.</p></div>
+
+    <div class="faq-item"><h3>Are you an insurance company?</h3><p>No. Gateway Restoration is a restoration and mitigation company. We do not sell insurance policies, evaluate coverage, or adjust claims. Coverage decisions are made exclusively by your insurance carrier.</p></div>
+
+    <div class="faq-item"><h3>Can you guarantee claim approval?</h3><p>No restoration company can guarantee claim approval, and any company that promises this should raise concern. Approval depends on your policy language, the cause of loss, and your carrier's review.</p></div>
+
+    <div class="faq-item"><h3>What if my claim is denied?</h3><p>You can request a written explanation from your carrier, ask about the specific policy language cited, and consider requesting a re-inspection. For questions about your legal rights, consult a licensed attorney or contact the Arizona Department of Insurance and Financial Institutions.</p></div>
+
+    <div class="faq-item"><h3>What should I do immediately after water damage?</h3><p>Stop the source of water if it's safe to do so, shut off power to affected outlets if water is nearby, photograph and video the damage, and contact a restoration company to begin mitigation. Notify your insurance carrier as soon as reasonably possible.</p></div>
+
+    <div class="faq-item"><h3>How fast can mold grow in Chandler?</h3><p>In Arizona's warm indoor environments, mold spores can begin colonizing damp materials within 24 to 48 hours of water exposure, which is why prompt extraction and structural drying matter so much.</p></div>
+  </div>
+</section>
+
+<!-- MAP -->
+<section class="alt">
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">Find Us</span>
+      <h2>Gateway Restoration — Chandler, AZ</h2>
+      <p>17817 S McQueen Rd, Chandler, AZ 85286</p>
+    </div>
+    <div class="map-embed">
+      <iframe src="https://www.google.com/maps?q=17817+S+McQueen+Rd,+Chandler,+AZ+85286&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+  </div>
+</section>
+
+<!-- FINAL CTA -->
+<section class="cta-final">
+  <div class="wrap">
+    <h2>Need Emergency Water Damage Help?</h2>
+    <p>Gateway Restoration provides 24/7 emergency mitigation and documentation support across Chandler, AZ. We're not an insurance company — we're here to help you document damage properly and restore your property.</p>
+    <div class="hero-actions" style="justify-content:center;">
+      <a class="btn" style="background:#fff;color:var(--alert);" href="tel:14805918997">📞 Call (480) 591-8997</a>
+      <a class="btn btn-outline" href="https://gatewayrestoration.pages.dev/contact">Request Free Inspection</a>
+    </div>
+    <p style="margin-top:22px;font-size:.85rem;color:#fde6de;">17817 S McQueen Rd, Chandler, AZ 85286 &nbsp;•&nbsp; 24/7 Emergency Response</p>
+  </div>
+</section>
+
+<footer class="site">
+  <div class="wrap footer-grid">
+    <div>
+      <div class="footer-brand">
+        <img src="https://gatewayrestoration.pages.dev/images/water-damage-chandler-az-by-gateway-restoration-logo.webp" alt="Gateway Restoration logo">
+        Gateway Restoration
+      </div>
+      <p>17817 S McQueen Rd, Chandler, AZ 85286</p>
+      <p><a href="tel:14805918997">(480) 591-8997</a></p>
+      <p>Serving Chandler, Gilbert, Mesa, Tempe, Queen Creek, and Phoenix, AZ. Licensed, insured, and IICRC-trained water damage restoration specialists.</p>
+    </div>
+    <div>
+      <h4>Services</h4>
+      <ul>
+        <li><a href="https://gatewayrestoration.pages.dev/services/emergency-water-damage-restoration">Emergency Water Damage</a></li>
+        <li><a href="https://gatewayrestoration.pages.dev/services/water-extraction/">Water Extraction</a></li>
+        <li><a href="https://gatewayrestoration.pages.dev/services/structural-drying/">Structural Drying</a></li>
+        <li><a href="https://gatewayrestoration.pages.dev/services/mold-remediation-after-water-damage/">Mold Remediation</a></li>
+        <li><a href="https://gatewayrestoration.pages.dev/services/sewage-backup-cleanup/">Sewage Backup Cleanup</a></li>
+        <li><a href="https://gatewayrestoration.pages.dev/services/commercial-water-damage-restoration/">Commercial Restoration</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Coverage Areas</h4>
+      <ul>
+        <li><a href="https://gatewayrestoration.pages.dev/coverage-areas/water-damage-restoration-chandler-az/">Chandler, AZ</a></li>
+        <li><a href="https://gatewayrestoration.pages.dev/coverage-areas/water-damage-restoration-gilbert-az/">Gilbert, AZ</a></li>
+        <li><a href="https://gatewayrestoration.pages.dev/coverage-areas/water-damage-restoration-mesa-az/">Mesa, AZ</a></li>
+        <li><a href="https://gatewayrestoration.pages.dev/coverage-areas/water-damage-restoration-tempe-az/">Tempe, AZ</a></li>
+        <li><a href="https://gatewayrestoration.pages.dev/coverage-areas/water-damage-restoration-queen-creek-az/">Queen Creek, AZ</a></li>
+        <li><a href="https://gatewayrestoration.pages.dev/coverage-areas/water-damage-restoration-phoenix-az/">Phoenix, AZ</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Company</h4>
+      <ul>
+        <li><a href="https://gatewayrestoration.pages.dev/about">About Us</a></li>
+        <li><a href="/insurance/">Insurance &amp; Cost</a></li>
+        <li><a href="https://gatewayrestoration.pages.dev/blog">Blog</a></li>
+        <li><a href="https://gatewayrestoration.pages.dev/contact">Contact</a></li>
+        <li><a href="https://gatewayrestoration.pages.dev/services/">All Services</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    © 2026 Gateway Restoration. All rights reserved. Gateway Restoration is a restoration and mitigation company — not an insurance provider. Licensed, insured, and IICRC-trained water damage restoration specialists serving Chandler, AZ.
+  </div>
+</footer>
+
+</body>
+</html>
