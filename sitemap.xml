@@ -8,117 +8,120 @@
 
   <!-- Primary Pages -->
   <url>
-    <loc>https://gatewayrestoration.pages.dev/about/</loc>
+    <loc>https://gatewayrestoration.pages.dev/about</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/our-process/</loc>
+    <loc>https://gatewayrestoration.pages.dev/our-process</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/reviews/</loc>
+    <loc>https://gatewayrestoration.pages.dev/reviews</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/faq/</loc>
+    <loc>https://gatewayrestoration.pages.dev/faq</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/contact/</loc>
+    <loc>https://gatewayrestoration.pages.dev/contact</loc>
   </url>
 
   <!-- Emergency Services -->
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/emergency-water-damage-restoration/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/emergency-water-damage-restoration</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/24-hour-water-damage-restoration/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/24-hour-water-damage-restoration</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/emergency-flood-cleanup/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/emergency-flood-cleanup</loc>
   </url>
 
   <!-- Water Mitigation & Drying -->
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/water-extraction/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/water-extraction</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/structural-drying/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/structural-drying</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/water-mitigation/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/water-mitigation</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/dehumidification-services/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/dehumidification-services</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/moisture-mapping-thermal-imaging/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/moisture-mapping-thermal-imaging</loc>
+  </url>
+  <url>
+    <loc>https://gatewayrestoration.pages.dev/services/residential-water-damage-restoration</loc>
   </url>
 
   <!-- Water Damage Causes -->
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/burst-pipe-water-damage/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/burst-pipe-water-damage</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/slab-leak-water-damage/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/slab-leak-water-damage</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/water-heater-leak-damage/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/water-heater-leak-damage</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/roof-leak-water-damage/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/roof-leak-water-damage</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/appliance-leak-water-damage/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/appliance-leak-water-damage</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/ac-leak-water-damage/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/ac-leak-water-damage</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/foundation-water-intrusion/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/foundation-water-intrusion</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/irrigation-system-leak-damage/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/irrigation-system-leak-damage</loc>
   </url>
 
   <!-- Flood & Storm Damage -->
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/storm-damage-restoration/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/storm-damage-restoration</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/monsoon-flood-damage-restoration/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/monsoon-flood-damage-restoration</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/flash-flood-cleanup/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/flash-flood-cleanup</loc>
   </url>
 
   <!-- Mold Remediation -->
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/mold-remediation-after-water-damage/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/mold-remediation-after-water-damage</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/black-mold-removal/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/black-mold-removal</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/mold-inspection/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/mold-inspection</loc>
   </url>
 
   <!-- Commercial Services -->
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/commercial-water-damage-restoration/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/commercial-water-damage-restoration</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/property-management-water-damage-services/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/property-management-water-damage-services</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/hoa-property-restoration/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/hoa-property-restoration</loc>
   </url>
 
   <!-- Contents Restoration -->
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/content-pack-out-restoration/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/content-pack-out-restoration</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/document-drying-restoration/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/document-drying-restoration</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/services/contents-cleaning-restoration/</loc>
+    <loc>https://gatewayrestoration.pages.dev/services/contents-cleaning-restoration</loc>
   </url>
 
   <!-- Insurance & Cost Resources -->
@@ -126,61 +129,61 @@
     <loc>https://gatewayrestoration.pages.dev/insurance/</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/insurance/water-damage-restoration-cost-chandler/</loc>
+    <loc>https://gatewayrestoration.pages.dev/insurance/water-damage-restoration-cost-chandler</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/insurance/does-insurance-cover-water-damage-arizona/</loc>
+    <loc>https://gatewayrestoration.pages.dev/insurance/does-insurance-cover-water-damage-arizona</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/insurance/water-mitigation-vs-restoration/</loc>
+    <loc>https://gatewayrestoration.pages.dev/insurance/water-mitigation-vs-restoration</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/insurance/water-damage-claim-checklist/</loc>
+    <loc>https://gatewayrestoration.pages.dev/insurance/water-damage-claim-checklist</loc>
   </url>
 
   <!-- Coverage Area Hub -->
   <url>
-    <loc>https://gatewayrestoration.pages.dev/coverage-areas/</loc>
+    <loc>https://gatewayrestoration.pages.dev/coverage-areas</loc>
   </url>
 
   <!-- Chandler Neighborhood Pages -->
   <url>
-    <loc>https://gatewayrestoration.pages.dev/coverage-areas/downtown-chandler-water-damage-restoration/</loc>
+    <loc>https://gatewayrestoration.pages.dev/coverage-areas/downtown-chandler-water-damage-restoration</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/coverage-areas/ocotillo-water-damage-restoration/</loc>
+    <loc>https://gatewayrestoration.pages.dev/coverage-areas/ocotillo-water-damage-restoration</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/coverage-areas/sun-lakes-water-damage-restoration/</loc>
+    <loc>https://gatewayrestoration.pages.dev/coverage-areas/sun-lakes-water-damage-restoration</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/coverage-areas/fox-crossing-water-damage-restoration/</loc>
+    <loc>https://gatewayrestoration.pages.dev/coverage-areas/fox-crossing-water-damage-restoration</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/coverage-areas/cooper-commons-water-damage-restoration/</loc>
+    <loc>https://gatewayrestoration.pages.dev/coverage-areas/cooper-commons-water-damage-restoration</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/coverage-areas/clemente-ranch-water-damage-restoration/</loc>
+    <loc>https://gatewayrestoration.pages.dev/coverage-areas/clemente-ranch-water-damage-restoration</loc>
   </url>
 
   <!-- City Service Area Pages -->
   <url>
-    <loc>https://gatewayrestoration.pages.dev/coverage-areas/water-damage-restoration-chandler-az/</loc>
+    <loc>https://gatewayrestoration.pages.dev/coverage-areas/water-damage-restoration-chandler-az</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/coverage-areas/water-damage-restoration-gilbert-az/</loc>
+    <loc>https://gatewayrestoration.pages.dev/coverage-areas/water-damage-restoration-gilbert-az</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/coverage-areas/water-damage-restoration-mesa-az/</loc>
+    <loc>https://gatewayrestoration.pages.dev/coverage-areas/water-damage-restoration-mesa-az</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/coverage-areas/water-damage-restoration-tempe-az/</loc>
+    <loc>https://gatewayrestoration.pages.dev/coverage-areas/water-damage-restoration-tempe-az</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/coverage-areas/water-damage-restoration-queen-creek-az/</loc>
+    <loc>https://gatewayrestoration.pages.dev/coverage-areas/water-damage-restoration-queen-creek-az</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/coverage-areas/water-damage-restoration-phoenix-az/</loc>
+    <loc>https://gatewayrestoration.pages.dev/coverage-areas/water-damage-restoration-phoenix-az</loc>
   </url>
 
   <!-- Blog Hub -->
@@ -190,34 +193,34 @@
 
   <!-- Educational Resources -->
   <url>
-    <loc>https://gatewayrestoration.pages.dev/blog/water-damage-restoration-process/</loc>
+    <loc>https://gatewayrestoration.pages.dev/blog/water-damage-restoration-process</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/blog/water-damage-categories-explained/</loc>
+    <loc>https://gatewayrestoration.pages.dev/blog/water-damage-categories-explained</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/blog/how-long-does-water-damage-restoration-take/</loc>
+    <loc>https://gatewayrestoration.pages.dev/blog/how-long-does-water-damage-restoration-take</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/blog/how-fast-does-mold-grow-after-water-damage/</loc>
+    <loc>https://gatewayrestoration.pages.dev/blog/how-fast-does-mold-grow-after-water-damage</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/blog/signs-of-hidden-water-damage/</loc>
+    <loc>https://gatewayrestoration.pages.dev/blog/signs-of-hidden-water-damage</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/blog/can-wet-drywall-be-saved/</loc>
+    <loc>https://gatewayrestoration.pages.dev/blog/can-wet-drywall-be-saved</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/blog/how-to-prevent-water-damage/</loc>
+    <loc>https://gatewayrestoration.pages.dev/blog/how-to-prevent-water-damage</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/blog/what-is-structural-drying/</loc>
+    <loc>https://gatewayrestoration.pages.dev/blog/what-is-structural-drying</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/blog/what-is-moisture-mapping/</loc>
+    <loc>https://gatewayrestoration.pages.dev/blog/what-is-moisture-mapping</loc>
   </url>
   <url>
-    <loc>https://gatewayrestoration.pages.dev/blog/emergency-water-damage-checklist/</loc>
+    <loc>https://gatewayrestoration.pages.dev/blog/emergency-water-damage-checklist</loc>
   </url>
 
 </urlset>
