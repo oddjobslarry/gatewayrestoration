@@ -22,31 +22,20 @@
 <meta name="geo.position" content="33.3062;-111.8413">
 <meta name="ICBM" content="33.3062, -111.8413">
 <link rel="icon" href="/images/water-damage-chandler-az-by-gateway-restoration-logo.webp">
-<style>
+<style>:root{--primary:#0B4F8C;--secondary:#1E88E5;--accent:#EA580C;--accent-dark:#EA580C;--desert:#D9A441;--light-blue:#DFF3FF;--dark:#1F2937;--muted:#4B5563;--bg:#F8FAFC;--white:#FFFFFF;--surface:#FFFFFF;--border:#E2E8F0;--radius:14px;--shadow-sm:0 2px 8px rgba(11,79,140,.08);--shadow-md:0 8px 24px rgba(11,79,140,.12);--container:1180px}
 /* UI/UX: design system from the single-file Space (gateway-restoration-seo-optimized-website) */
 
-  :root{
-    --primary:#0B4F8C; --secondary:#1E88E5; --accent:#F97316; --accent-dark:#EA580C;
-    --desert:#D9A441; --light-blue:#DFF3FF; --dark:#1F2937; --muted:#4B5563;
-    --bg:#F8FAFC; --white:#FFFFFF; --surface:#FFFFFF; --border:#E2E8F0;
-    --radius:14px; --shadow-sm:0 2px 8px rgba(11,79,140,.08); --shadow-md:0 8px 24px rgba(11,79,140,.12);
-    --container:1180px;
-  }
-  @media (prefers-color-scheme: dark){
-    :root{
-      --bg:#0C1622; --surface:#122334; --white:#122334; --dark:#E8EEF4; --muted:#A9BAC9;
-      --light-blue:#16324A; --border:#24405C; --shadow-sm:0 2px 8px rgba(0,0,0,.35); --shadow-md:0 8px 24px rgba(0,0,0,.45);
-    }
-  }
+  
+  
   *{box-sizing:border-box}
   html{scroll-behavior:smooth}
   body{margin:0;font-family:'Segoe UI',system-ui,-apple-system,Roboto,sans-serif;color:var(--dark);background:var(--bg);line-height:1.65}
   img{max-width:100%;display:block}
   a{color:var(--primary);text-decoration:none}
-  @media (prefers-color-scheme: dark){ a{color:#7FB8EC} }
+  
   .wrap{max-width:var(--container);margin:0 auto;padding:0 24px}
   h1,h2,h3,h4{font-family:Georgia,'Times New Roman',serif;color:var(--primary);line-height:1.2;margin-top:0}
-  @media (prefers-color-scheme: dark){ h1,h2,h3,h4{color:#9CC8F2} }
+  
   h1{font-size:clamp(1.9rem,4vw,2.9rem)}
   h2{font-size:clamp(1.45rem,2.8vw,2.05rem);margin-bottom:.6em}
   h3{font-size:1.18rem}
@@ -75,7 +64,7 @@
   
   
   /* HERO */
-  .hero{position:relative;background:linear-gradient(120deg,rgba(8,52,94,.92),rgba(21,101,168,.86)),url('/images/water-damage-restoration-chandler-gateway-restoration-chandler-az.webp') center/cover no-repeat;color:#fff;padding:72px 0 64px}
+  .hero{position:relative;background:linear-gradient(120deg,rgba(8,52,94,.92),rgba(21,101,168,.88)),url('/images/emergency-water-damage-restoration-gateway-restoration-chandler-az.webp') center/cover no-repeat;color:#fff;padding:72px 0 64px}
   .hero h1{color:#fff}
   .hero-grid{display:grid;grid-template-columns:1.15fr .85fr;gap:40px;align-items:start}
   .hero p.lead{font-size:1.13rem;max-width:640px;margin:16px 0 26px;color:#EAF4FD}
@@ -246,20 +235,7 @@
   }
 
 /* Compatibility: v1-only components the Space does not style */
-:root {
-    --primary:#0B4F8C;
-    --secondary:#1E88E5;
-    --accent:#F97316;
-    --desert:#D9A441;
-    --light-blue:#DFF3FF;
-    --dark:#1F2937;
-    --bg:#F8FAFC;
-    --white:#FFFFFF;
-    --radius: 14px;
-    --shadow-sm: 0 2px 8px rgba(11,79,140,0.08);
-    --shadow-md: 0 8px 24px rgba(11,79,140,0.12);
-    --container: 1180px;
-  }
+
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 body {
@@ -914,13 +890,56 @@ footer.site {background:var(--navy-dark);color:#c9d8e6;padding:48px 0 24px;font-
 /* Keep v1 two-column service layout readable under Space tokens */
 .content-section .wrap { max-width: 900px; }
 
+
+/* v3 READABILITY HARDENING — white-on-orange buttons use darker accent #EA580C (3.56:1) */
+.btn-accent,.sc-call,.callout{background:#EA580C!important} — single light theme. Dark navy only on hero, footer, sticky bar. */
+body{background:#F8FAFC!important;color:#1F2937!important}
+header.site-header,header.site{background:#FFFFFF!important}
+header.site-header nav a,header.site nav a,.nav-row nav a{color:#1F2937!important}
+header.site-header nav a:hover,header.site nav a:hover,.nav-row nav a:hover{color:#1E88E5!important}
+.logo,.logo strong{color:#0B4F8C!important}
+.hero{background:linear-gradient(120deg,rgba(8,52,94,.92),rgba(21,101,168,.88)),url('/images/emergency-water-damage-restoration-gateway-restoration-chandler-az.webp') center/cover no-repeat!important;color:#FFFFFF!important}
+.hero h1{color:#FFFFFF!important}
+.hero p.lead{color:#EAF4FD!important}
+.page-hero{background:linear-gradient(120deg,rgba(8,52,94,.93),rgba(21,101,168,.88)),var(--hero-img,none) center/cover no-repeat;color:#FFFFFF!important}
+.page-hero h1,.page-hero p{color:#FFFFFF!important}
+.blog-hero{background:linear-gradient(135deg,#0B4F8C 0%,#063A6E 100%)!important;color:#FFFFFF!important}
+.blog-hero h1,.blog-hero p,.blog-hero-meta{color:#FFFFFF!important}
+.service-link,.card,.emergency-item,.review-card,.faq-item,.content-section,.form-card,.city-card{background:#FFFFFF!important;color:#1F2937!important}
+.service-link{color:#1F2937!important;border-left:4px solid #D9A441!important}
+.service-link:hover{color:#EA580C!important}
+.emergency{background:#DFF3FF!important;color:#1F2937!important}
+.emergency p,.emergency-item p,.card p,.review-card p,.city-card p{color:#4B5563!important}
+.emergency h2,.content-section h2,.content-section h3{color:#0B4F8C!important}
+.content-section{background:#FFFFFF!important}
+.content-section p,.content-section li{color:#1F2937!important}
+.form-card{background:#FFFFFF!important;color:#1F2937!important}
+.form-card label,.field label,label{color:#1F2937!important}
+.form-card input,.form-card select,.form-card textarea,.lead-form input,.lead-form select,.lead-form textarea,.field input,.field select,.field textarea{background:#FFFFFF!important;color:#1F2937!important;border:1px solid #CBD5E1!important}
+input::placeholder,textarea::placeholder{color:#64748B!important}
+select::placeholder{color:#64748B!important}
+.faq-q{background:#FFFFFF!important;color:#1F2937!important}
+.faq-a,.faq-a p{color:#1F2937!important}
+.quick-answer{background:#FFFFFF!important;color:#1F2937!important}
+.quick-answer p{color:#1F2937!important}
+.quick-answer strong{color:#0B4F8C!important}
+.sticky-call{background:#FFFFFF!important}
+.sticky-call .sc-call,.sticky-call .sc-form{color:#FFFFFF!important}
+.sticky-cta{background:#0B4F8C!important}
+.sticky-cta a{color:#FFFFFF!important}
+.photo-strip img{width:100%!important;height:320px!important;object-fit:cover!important;object-position:center!important;border-radius:14px!important}
+.area-chip{background:#FFFFFF!important;color:#0B4F8C!important;border:1px solid #E2E8F0!important}
+.zip{background:#FFFFFF!important;color:#1F2937!important;border:1px solid #E2E8F0!important}
+.map-figure{background:#FFFFFF!important;border:1px solid #E2E8F0!important;border-radius:14px!important;padding:16px!important}
+.map-figure figcaption{color:#4B5563!important}
+@media(max-width:760px){.photo-strip img{height:auto!important}}
 </style>
 </head>
 <body>
 
 <header class="site-header">
   <div class="wrap nav-row">
-    <a class="logo" href="/"><img src="/images/water-damage-chandler-az-by-gateway-restoration-logo.webp" alt="Gateway Restoration" width="40" height="40">Gateway <span>Restoration</span></a>
+    <a class="logo" href="/"><img src="/images/water-damage-chandler-az-by-gateway-restoration-logo.webp" alt="Gateway Restoration" width="40" height="27">Gateway <span>Restoration</span></a>
     <button class="menu-toggle" id="navToggle" aria-expanded="false" aria-controls="siteNav" aria-label="Open menu">☰</button>
     <nav class="main-nav" id="siteNav" aria-label="Primary"><ul>
         <li><a href="/">Home</a></li>
